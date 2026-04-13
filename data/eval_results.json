@@ -1,0 +1,108 @@
+{
+  "corpus": {
+    "chroma_vectors": 125,
+    "sqlite_chunks": 125,
+    "schemes_indexed": 15,
+    "fund_facts": 15,
+    "facts_with_nav": 15,
+    "full_coverage": true
+  },
+  "retrieval": {
+    "recall_at_3": 0.917,
+    "mrr": 0.639,
+    "total": 12,
+    "hits": 11,
+    "details": [
+      {
+        "query": "What is the expense ratio of HDFC Mid-Cap Fund?",
+        "expected": "hdfc-mid-cap-fund-direct-growt:fund_details",
+        "status": "✅ Rank 1"
+      },
+      {
+        "query": "What is the exit load for HDFC ELSS Tax Saver Fund?",
+        "expected": "hdfc-elss-tax-saver-fund-direc:exit_load_tax",
+        "status": "✅ Rank 2"
+      },
+      {
+        "query": "Who is the fund manager of HDFC Small Cap Fund?",
+        "expected": "hdfc-small-cap-fund-direct-gro:fund_manager",
+        "status": "✅ Rank 1"
+      },
+      {
+        "query": "What is the minimum SIP for HDFC Balanced Advantage Fun",
+        "expected": "hdfc-balanced-advantage-fund-d:fund_details",
+        "status": "✅ Rank 1"
+      },
+      {
+        "query": "What are the top holdings of HDFC Large Cap Fund?",
+        "expected": "hdfc-large-cap-fund-direct-gro:holdings",
+        "status": "❌ Not found"
+      },
+      {
+        "query": "What is the NAV of HDFC Infrastructure Fund?",
+        "expected": "hdfc-infrastructure-fund-direc:fund_details",
+        "status": "✅ Rank 1"
+      },
+      {
+        "query": "What is the stamp duty for HDFC Equity Fund?",
+        "expected": "hdfc-equity-fund-direct-growth:exit_load_tax",
+        "status": "✅ Rank 2"
+      },
+      {
+        "query": "HDFC Nifty 50 fund size AUM",
+        "expected": "hdfc-nifty50-equal-weight-inde:fund_details",
+        "status": "✅ Rank 2"
+      },
+      {
+        "query": "What is the rating of HDFC Focused Fund?",
+        "expected": "hdfc-focused-fund-direct-growt:fund_details",
+        "status": "✅ Rank 3"
+      },
+      {
+        "query": "SIP returns for HDFC Mid-Cap Fund",
+        "expected": "hdfc-mid-cap-fund-direct-growt:return_calculator",
+        "status": "✅ Rank 2"
+      },
+      {
+        "query": "Compare similar funds to HDFC Large and Mid Cap Fund",
+        "expected": "hdfc-large-and-mid-cap-fund-di:compare_similar",
+        "status": "✅ Rank 1"
+      },
+      {
+        "query": "Asset allocation breakdown HDFC Balanced Advantage Fund",
+        "expected": "hdfc-balanced-advantage-fund-d:fund_details",
+        "status": "✅ Rank 3"
+      }
+    ]
+  },
+  "refusals": {
+    "categories": {
+      "advisory": {
+        "accuracy": 1.0,
+        "correct": 10,
+        "total": 10
+      },
+      "comparative": {
+        "accuracy": 1.0,
+        "correct": 5,
+        "total": 5
+      },
+      "pii": {
+        "accuracy": 1.0,
+        "correct": 5,
+        "total": 5
+      },
+      "off_topic": {
+        "accuracy": 1.0,
+        "correct": 5,
+        "total": 5
+      }
+    },
+    "overall": 1.0
+  },
+  "test_queries": {
+    "accuracy": 1.0,
+    "correct": 8,
+    "total": 8
+  }
+}

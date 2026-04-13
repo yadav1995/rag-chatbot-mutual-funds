@@ -1,0 +1,53 @@
+name: Daily Groww Data Refresh
+
+on:
+  schedule:
+    # 3:45 AM UTC = 9:15 AM IST
+    - cron: '45 3 * * *'
+  workflow_dispatch: # Manual trigger from GitHub UI
+
+jobs:
+  scrape-and-ingest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Install Chrome (for Selenium fallback)
+        uses: browser-actions/setup-chrome@v1
+        with:
+          chrome-version: stable
+
+      - name: Run scraping service
+        run: python src/ingestion/scraping_service.py --mode full --triggered-by github_actions
+        env:
+          SCRAPE_MODE: full
+
+      - name: Run chunking pipeline
+        run: python src/ingestion/chunker.py
+
+      - name: Run embedding pipeline
+        run: python src/ingestion/embedder.py
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --staged --quiet || git commit -m "chore: daily data refresh $(date -u +%Y-%m-%d)"
+          git push

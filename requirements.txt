@@ -1,0 +1,34 @@
+# =============================================================================
+# Mutual Fund FAQ Assistant — Dependencies
+# =============================================================================
+
+# --- Scraping & Parsing ---
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+selenium>=4.15.0
+lxml>=4.9.0
+
+# --- Chunking ---
+langchain-text-splitters>=0.0.1
+tiktoken>=0.5.0
+
+# --- Embedding ---
+sentence-transformers>=2.2.0
+torch>=2.0.0
+
+# --- Vector Store ---
+chromadb>=0.4.0
+
+# --- Keyword Search ---
+rank-bm25>=0.2.2
+
+# --- LLM ---
+openai>=1.0.0
+
+# --- Web Framework ---
+streamlit>=1.28.0
+# fastapi>=0.104.0        # Alternative to Streamlit
+# uvicorn>=0.24.0         # ASGI server for FastAPI
+
+# --- Testing ---
+pytest>=7.4.0

@@ -1,0 +1,15 @@
+{
+  "scheme_name": "HDFC Equity Fund",
+  "scheme_slug": "hdfc-equity-fund-direct-growth",
+  "category": "multi-cap",
+  "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+  "scrape_date": "2026-04-13",
+  "fund_facts": {
+    "nav": "₹2,162.97",
+    "nav_date": "10 Apr '26",
+    "min_sip": "₹100",
+    "fund_size": "₹91,334.91 Cr",
+    "expense_ratio": "0.68%",
+    "rating": "5"
+  }
+}
