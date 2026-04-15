@@ -6,6 +6,9 @@ on:
     - cron: '45 3 * * *'
   workflow_dispatch: # Manual trigger from GitHub UI
 
+permissions:
+  contents: write
+
 jobs:
   scrape-and-ingest:
     runs-on: ubuntu-latest
