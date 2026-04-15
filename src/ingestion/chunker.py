@@ -167,12 +167,14 @@ def chunk_parsed_page(parsed_page: ParsedPage, scrape_date: str = None) -> list[
         scrape_date = datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
     chunks = []
+    section_counters = {}
 
     for section in parsed_page.sections:
         text = section.raw_text.strip()
         if not text:
             continue
 
+        current_idx = section_counters.get(section.section_name, 0)
         tokens = token_count_fn(text)
 
         if tokens <= CHUNK_SIZE:
@@ -181,7 +183,7 @@ def chunk_parsed_page(parsed_page: ParsedPage, scrape_date: str = None) -> list[
                 content_hash = _compute_chunk_hash(text)
                 metadata = _build_metadata(
                     section=section,
-                    chunk_index=0,
+                    chunk_index=current_idx,
                     total_chunks=1,
                     token_count=tokens,
                     content_hash=content_hash,
@@ -192,6 +194,7 @@ def chunk_parsed_page(parsed_page: ParsedPage, scrape_date: str = None) -> list[
                 logger.debug(
                     f"  Tier 1 chunk: {metadata['chunk_id']} ({tokens} tokens)"
                 )
+                current_idx += 1
             else:
                 logger.debug(
                     f"  Skipped section '{section.section_name}' — "
@@ -208,12 +211,12 @@ def chunk_parsed_page(parsed_page: ParsedPage, scrape_date: str = None) -> list[
                 st for st in sub_texts if token_count_fn(st) >= MIN_CHUNK_SIZE
             ]
 
-            for i, sub_text in enumerate(valid_sub_texts):
+            for sub_text in valid_sub_texts:
                 sub_tokens = token_count_fn(sub_text)
                 content_hash = _compute_chunk_hash(sub_text)
                 metadata = _build_metadata(
                     section=section,
-                    chunk_index=i,
+                    chunk_index=current_idx,
                     total_chunks=len(valid_sub_texts),
                     token_count=sub_tokens,
                     content_hash=content_hash,
@@ -224,11 +227,14 @@ def chunk_parsed_page(parsed_page: ParsedPage, scrape_date: str = None) -> list[
                 logger.debug(
                     f"  Tier 2 chunk: {metadata['chunk_id']} ({sub_tokens} tokens)"
                 )
+                current_idx += 1
 
             logger.info(
                 f"  Section '{section.section_name}' split into "
                 f"{len(valid_sub_texts)} sub-chunks (was {tokens} tokens)"
             )
+            
+        section_counters[section.section_name] = current_idx
 
     logger.info(
         f"Chunked {parsed_page.scheme_name}: "
@@ -256,10 +262,20 @@ def chunk_all_raw_files() -> list[dict]:
     url_map = {get_scheme_slug(entry["url"]): entry["url"] for entry in url_entries}
 
     # Find all HTML files in raw/
-    html_files = sorted(RAW_DIR.glob("*.html"))
-    if not html_files:
+    all_html_files = sorted(RAW_DIR.glob("*.html"))
+    if not all_html_files:
         logger.warning(f"No HTML files found in {RAW_DIR}")
         return []
+
+    # Filter to only keep the latest file per scheme
+    latest_files = {}
+    for filepath in all_html_files:
+        filename_parts = filepath.stem.rsplit("_", 1)
+        scheme_slug = filename_parts[0] if len(filename_parts) >= 2 else filepath.stem
+        # Since files are sorted chronologically by name, the last seen is the latest
+        latest_files[scheme_slug] = filepath
+
+    html_files = list(latest_files.values())
 
     all_chunks = []
     scrape_date = datetime.now(timezone.utc).strftime("%Y-%m-%d")
