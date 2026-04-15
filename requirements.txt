@@ -27,8 +27,8 @@ openai>=1.0.0
 
 # --- Web Framework ---
 streamlit>=1.28.0
-# fastapi>=0.104.0        # Alternative to Streamlit
-# uvicorn>=0.24.0         # ASGI server for FastAPI
+fastapi>=0.104.0
+uvicorn>=0.24.0
 
 # --- Testing ---
 pytest>=7.4.0
