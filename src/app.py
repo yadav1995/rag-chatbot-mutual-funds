@@ -99,10 +99,41 @@ section[data-testid="stSidebar"] .stMarkdown h3 {
     justify-content: center;
 }
 
-/* ── Chat Messages ─────────────────────────── */
-.stChatMessage {
+/* ── Chat Messages & Data Tables ───────────── */
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+[data-testid="stChatMessage"] {
+    animation: fadeIn 0.4s ease-out;
     border-radius: 12px !important;
     margin-bottom: 0.75rem !important;
+    padding: 1.5rem !important;
+    background: rgba(255, 255, 255, 0.03) !important;
+    border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+[data-testid="stTable"], .dataframe {
+    border-collapse: collapse;
+    margin: 1rem 0;
+    border-radius: 8px;
+    overflow: hidden;
+    background: rgba(255, 255, 255, 0.03) !important;
+    border: 1px solid rgba(255, 255, 255, 0.1) !important;
+}
+[data-testid="stTable"] th, .dataframe th {
+    background: rgba(233, 69, 96, 0.15) !important;
+    color: #e94560 !important;
+    font-weight: 600;
+    padding: 10px !important;
+}
+[data-testid="stTable"] td, .dataframe td {
+    padding: 10px !important;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05) !important;
+}
+[data-testid="stTable"] tr:hover, .dataframe tr:hover {
+    background: rgba(255, 255, 255, 0.07) !important;
 }
 
 /* ── Citation Badge ────────────────────────── */
@@ -113,6 +144,7 @@ section[data-testid="stSidebar"] .stMarkdown h3 {
     border-radius: 8px;
     padding: 0.35rem 0.75rem;
     margin-top: 0.5rem;
+    margin-right: 0.5rem;
     font-size: 0.8rem;
     color: #e94560;
     text-decoration: none;
@@ -122,21 +154,11 @@ section[data-testid="stSidebar"] .stMarkdown h3 {
 .citation-badge:hover {
     background: rgba(233, 69, 96, 0.3);
     color: #f39c12;
+    transform: scale(1.03);
 }
 
 .citation-badge::before {
     content: "🔗 ";
-}
-
-/* ── Guardrail Warning ─────────────────────── */
-.guardrail-warning {
-    background: rgba(243, 156, 18, 0.1);
-    border-left: 3px solid #f39c12;
-    border-radius: 4px;
-    padding: 0.5rem 0.75rem;
-    margin-top: 0.5rem;
-    font-size: 0.75rem;
-    color: rgba(255, 255, 255, 0.5);
 }
 
 /* ── Thread Card ───────────────────────────── */
@@ -170,6 +192,12 @@ section[data-testid="stSidebar"] .stMarkdown h3 {
 }
 
 /* ── Status Indicator ──────────────────────── */
+@keyframes pulse {
+    0% { box-shadow: 0 0 0 0 rgba(39, 174, 96, 0.7); }
+    70% { box-shadow: 0 0 0 6px rgba(39, 174, 96, 0); }
+    100% { box-shadow: 0 0 0 0 rgba(39, 174, 96, 0); }
+}
+
 .status-dot {
     display: inline-block;
     width: 8px;
@@ -178,6 +206,7 @@ section[data-testid="stSidebar"] .stMarkdown h3 {
     margin-right: 6px;
     background: #27ae60;
     box-shadow: 0 0 6px rgba(39, 174, 96, 0.5);
+    animation: pulse 2s infinite;
 }
 
 /* ── Info Footer ───────────────────────────── */
@@ -195,6 +224,10 @@ section[data-testid="stSidebar"] .stMarkdown h3 {
     border-radius: 10px !important;
     font-weight: 500 !important;
     transition: all 0.2s ease !important;
+}
+
+.stButton > button:hover {
+    transform: scale(1.02);
 }
 
 /* ── Hide Streamlit defaults ───────────────── */
@@ -277,15 +310,38 @@ def process_query(query: str):
     st.session_state.messages.append({"role": "user", "content": query, "citations": []})
     tm.add_message(thread_id, "user", query)
 
+    # Eagerly show the user message
+    with st.chat_message("user", avatar="👤"):
+        st.markdown(query)
+
     # Get conversation history for context
     history = tm.get_recent_history(thread_id, max_pairs=3)
 
-    # Run pipeline
-    response = pipeline.answer(
-        query=query,
-        thread_id=thread_id,
-        conversation_history=history,
-    )
+    # Run pipeline with "Thinking" state
+    with st.chat_message("assistant", avatar="📊"):
+        with st.status("Thinking...", expanded=True) as status:
+            status.update(label="Analyzing query intent & searching facts...", state="running")
+            response = pipeline.answer(
+                query=query,
+                thread_id=thread_id,
+                conversation_history=history,
+            )
+            status.update(label="Response generated!", state="complete")
+        
+        # Guardrail notifications
+        if not response.guardrail_passed and response.guardrail_violations:
+            violations = ", ".join(response.guardrail_violations)
+            st.toast(f"⚠️ Guardrail Triggered: {violations}", icon="⚠️")
+        
+        st.markdown(response.answer)
+        if response.citations:
+            with st.expander("📚 View Data Sources"):
+                for url in response.citations:
+                    domain = url.split("/")[2] if len(url.split("/")) > 2 else url
+                    st.markdown(
+                        f'<a href="{url}" target="_blank" class="citation-badge">{domain}</a>',
+                        unsafe_allow_html=True,
+                    )
 
     # Add assistant message
     assistant_msg = {
@@ -406,23 +462,15 @@ for msg in st.session_state.messages:
     with st.chat_message(msg["role"], avatar="👤" if msg["role"] == "user" else "📊"):
         st.markdown(msg["content"])
 
-        # Show citation badges for assistant messages
+        # Show citations in expander
         if msg["role"] == "assistant" and msg.get("citations"):
-            for url in msg["citations"]:
-                domain = url.split("/")[2] if len(url.split("/")) > 2 else url
-                st.markdown(
-                    f'<a href="{url}" target="_blank" class="citation-badge">{domain}</a>',
-                    unsafe_allow_html=True,
-                )
-
-        # Show guardrail warnings (debug info)
-        if msg["role"] == "assistant" and not msg.get("guardrail_passed", True):
-            violations = msg.get("guardrail_violations", [])
-            if violations:
-                st.markdown(
-                    f'<div class="guardrail-warning">⚠️ Guardrail: {", ".join(violations)}</div>',
-                    unsafe_allow_html=True,
-                )
+            with st.expander("📚 View Data Sources"):
+                for url in msg["citations"]:
+                    domain = url.split("/")[2] if len(url.split("/")) > 2 else url
+                    st.markdown(
+                        f'<a href="{url}" target="_blank" class="citation-badge">{domain}</a>',
+                        unsafe_allow_html=True,
+                    )
 
 
 # =============================================================================
