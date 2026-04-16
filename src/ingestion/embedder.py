@@ -264,6 +264,13 @@ class SQLiteStore:
 
             if existing:
                 if existing[0] == content_hash:
+                    # Content unchanged, but still refresh the scrape_date and updated_at
+                    # to reflect that we successfully verified this data today.
+                    self.conn.execute("""
+                        UPDATE chunks SET
+                            scrape_date = ?, updated_at = ?
+                        WHERE chunk_id = ?
+                    """, (meta["scrape_date"], now, chunk_id))
                     skipped += 1
                     continue
                 else:

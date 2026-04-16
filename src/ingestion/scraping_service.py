@@ -188,14 +188,11 @@ def run_full_scrape(triggered_by: str = "manual") -> dict:
             logger.error(f"  ✗ FAILED: {scrape_result.error}")
             continue
 
-        # Diff check — has content changed?
-        content_changed = has_content_changed(
-            scrape_result.content_hash, scheme_slug, previous_hashes
-        )
+        # Always save raw HTML to ensure the date in the filename is current
+        # for the chunking and embedding pipeline.
+        save_raw_html(scrape_result, date_str)
 
         if content_changed:
-            # Content changed — save raw HTML
-            save_raw_html(scrape_result, date_str)
             status = "updated"
             changed_count += 1
             logger.info(
@@ -208,7 +205,7 @@ def run_full_scrape(triggered_by: str = "manual") -> dict:
         else:
             status = "unchanged"
             logger.info(
-                f"  — UNCHANGED (hash: {scrape_result.content_hash[:12]}...) "
+                f"  — UNCHANGED (but saved for date sync, hash: {scrape_result.content_hash[:12]}...) "
                 f"[{scrape_result.scrape_time_ms}ms]"
             )
 
