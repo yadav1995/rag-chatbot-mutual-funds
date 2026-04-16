@@ -1,15 +1,15 @@
 {
-  "run_id": "2026-04-16T11:22:33.611144+05:30",
-  "triggered_by": "github_actions",
-  "duration_seconds": 42.55,
+  "run_id": "2026-04-16T23:13:57.185533+05:30",
+  "triggered_by": "manual",
+  "duration_seconds": 56.2,
   "results": [
     {
       "url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
       "scheme": "HDFC Mid-Cap Fund",
       "scheme_slug": "hdfc-mid-cap-fund-direct-growth",
       "status": "updated",
-      "content_hash": "5e986958fcf00e38ee235f6c51b66a1d3dc46eecb5b6e9b92cb6f2e3b6b9098f",
-      "scrape_time_ms": 375,
+      "content_hash": "d00af2c3389ae132d930aaf35e8a89bc20595c838ee7b7361499a4faace77199",
+      "scrape_time_ms": 1091,
       "method": "requests",
       "sections_found": [
         "full_page"
@@ -21,8 +21,8 @@
       "scheme": "HDFC Equity Fund",
       "scheme_slug": "hdfc-equity-fund-direct-growth",
       "status": "updated",
-      "content_hash": "aaf6ac425a2ab02242653ec54d5f6821a0e78cc449c2e675d0fc118d18bed576",
-      "scrape_time_ms": 918,
+      "content_hash": "24bd1c4e182abe0448a4d120f9af5c018ec7097aab46e709f07d00f4ec7a9cc0",
+      "scrape_time_ms": 943,
       "method": "requests",
       "sections_found": [
         "full_page"
@@ -34,8 +34,8 @@
       "scheme": "HDFC Focused Fund",
       "scheme_slug": "hdfc-focused-fund-direct-growth",
       "status": "updated",
-      "content_hash": "6cb7da823c1025e3340e97e25ad355d92c4a67ddda3bdf393465591c25ed1a80",
-      "scrape_time_ms": 931,
+      "content_hash": "0fd7a3454f5d2f344a7d25183d7bbfb2d98bf022eab9f727f6adbf820a12ae9b",
+      "scrape_time_ms": 948,
       "method": "requests",
       "sections_found": [
         "full_page"
@@ -47,8 +47,8 @@
       "scheme": "HDFC ELSS Tax Saver Fund",
       "scheme_slug": "hdfc-elss-tax-saver-fund-direct-plan-growth",
       "status": "updated",
-      "content_hash": "1dbf501f047d244ccc2fdebff2beadf4fee70718b2279c0d190d4700196d9220",
-      "scrape_time_ms": 473,
+      "content_hash": "ed252db20b8ce2a04b0572f2fe3b82187524fcc0dc075f2d48f3eed2a8af7eca",
+      "scrape_time_ms": 883,
       "method": "requests",
       "sections_found": [
         "full_page"
@@ -60,8 +60,8 @@
       "scheme": "HDFC Balanced Advantage Fund",
       "scheme_slug": "hdfc-balanced-advantage-fund-direct-growth",
       "status": "updated",
-      "content_hash": "ff14a778fb92b3759d1269f7ab35898aefdff6b513211fbf78ecfeeca20a0f37",
-      "scrape_time_ms": 446,
+      "content_hash": "a24ff3ea00b6e17fa28d0eaecf24ceb315189b41b6a209e3f5dd8d9eb8e5b7b9",
+      "scrape_time_ms": 894,
       "method": "requests",
       "sections_found": [
         "full_page"
@@ -73,8 +73,8 @@
       "scheme": "HDFC Large Cap Fund",
       "scheme_slug": "hdfc-large-cap-fund-direct-growth",
       "status": "updated",
-      "content_hash": "152e508b95c172a9e54a1adeb8611c9d34f60dc1b8ead0c988932b3dce37cf0b",
-      "scrape_time_ms": 428,
+      "content_hash": "8fb824e24c32d358fab9e4dbc1e716b669d646b7c5a41f10ab2096e537963065",
+      "scrape_time_ms": 2692,
       "method": "requests",
       "sections_found": [
         "full_page"
@@ -86,8 +86,8 @@
       "scheme": "HDFC Income Plus Arbitrage Active FoF",
       "scheme_slug": "hdfc-i-come-plus-arbitrage-active-fof-direct-growth",
       "status": "updated",
-      "content_hash": "3aaf14ddfc43847865e2afd22ce8ce1ce5ed202f9861262eb1e6b4e08adf4d84",
-      "scrape_time_ms": 997,
+      "content_hash": "3adcae75c5689b880fe9cfc6f43ff237af7618243c9d9a38c35ea98a91f5c232",
+      "scrape_time_ms": 1165,
       "method": "requests",
       "sections_found": [
         "full_page"
@@ -99,8 +99,8 @@
       "scheme": "HDFC Infrastructure Fund",
       "scheme_slug": "hdfc-infrastructure-fund-direct-growth",
       "status": "updated",
-      "content_hash": "634e48283f891c1a86dd40a56e95c0e85120629ad273514f97e4b56b1d83d681",
-      "scrape_time_ms": 1082,
+      "content_hash": "29af3fa11084c9ea2d345288e581fe1aec1c54ca2d48cc529d27e613361c7a8d",
+      "scrape_time_ms": 888,
       "method": "requests",
       "sections_found": [
         "full_page"
@@ -112,8 +112,8 @@
       "scheme": "HDFC Nifty Next 50 Index Fund",
       "scheme_slug": "hdfc-nifty-next-50-index-fund-direct-growth",
       "status": "updated",
-      "content_hash": "2f3b6c9a5c7fd843ace7fcbbd4c9b835fc7b4d0873473652a3cd3af3e896026d",
-      "scrape_time_ms": 406,
+      "content_hash": "68dd3ff83115375c75eefec607901aed3dd4084495456296651a8c75da2004b4",
+      "scrape_time_ms": 1997,
       "method": "requests",
       "sections_found": [
         "full_page"
@@ -125,8 +125,8 @@
       "scheme": "HDFC Large and Mid Cap Fund",
       "scheme_slug": "hdfc-large-and-mid-cap-fund-direct-growth",
       "status": "updated",
-      "content_hash": "f654df8a5f5b46e087f126619db5cd46f0e808603d278fca28a98e2a56e8eb16",
-      "scrape_time_ms": 559,
+      "content_hash": "98a0df5b078b3baf3bcf0711c6c43c65a36a0f953e145ed56e5ab04090685144",
+      "scrape_time_ms": 963,
       "method": "requests",
       "sections_found": [
         "full_page"
@@ -138,8 +138,8 @@
       "scheme": "HDFC Nifty 100 Equal Weight Index Fund",
       "scheme_slug": "hdfc-nifty-100-equal-weight-index-fund-direct-growth",
       "status": "updated",
-      "content_hash": "4fb82a539262544c3130928801f175cb690d0d9c1d45a0698b4f13ad2d9666a2",
-      "scrape_time_ms": 575,
+      "content_hash": "cf8dedc267041a2c21ee1f94a22c08cd6630ade9d98ae2e1b35f22cb9b66171d",
+      "scrape_time_ms": 1058,
       "method": "requests",
       "sections_found": [
         "full_page"
@@ -151,8 +151,8 @@
       "scheme": "HDFC Small Cap Fund",
       "scheme_slug": "hdfc-small-cap-fund-direct-growth",
       "status": "updated",
-      "content_hash": "365a94d078fb0a0f9ade565491a22ff2d98d087539aad911985f522fb207248c",
-      "scrape_time_ms": 429,
+      "content_hash": "85cabf9a5c9870525ce8e5d24e86662dd9ce8ccfdece54a8007fad2cdb72a16d",
+      "scrape_time_ms": 1898,
       "method": "requests",
       "sections_found": [
         "full_page"
@@ -164,8 +164,8 @@
       "scheme": "HDFC Nifty 50 Equal Weight Index Fund",
       "scheme_slug": "hdfc-nifty50-equal-weight-index-fund-direct-growth",
       "status": "updated",
-      "content_hash": "55986addc00a69689678dc12793c0427c982edcb6430bf560d67012a1cca5aef",
-      "scrape_time_ms": 446,
+      "content_hash": "787c4d47dc9d7e481d405a5578fd13e5b15dfa0c3af1345670ccd7b830c13ab8",
+      "scrape_time_ms": 1323,
       "method": "requests",
       "sections_found": [
         "full_page"
@@ -177,8 +177,8 @@
       "scheme": "HDFC Multi Asset Active FoF",
       "scheme_slug": "hdfc-multi-asset-active-fof-direct-growth",
       "status": "updated",
-      "content_hash": "3e5f8e729d7676ef6696cc72ecc23eeaeea84b0083301bb5c317969304f3b5c4",
-      "scrape_time_ms": 876,
+      "content_hash": "613392bbe931bcd5d5c23ce08b535a664fdac8a2fbab078e9636c1bfd679dabf",
+      "scrape_time_ms": 1040,
       "method": "requests",
       "sections_found": [
         "full_page"
@@ -190,8 +190,8 @@
       "scheme": "HDFC Retirement Savings Fund - Equity Plan",
       "scheme_slug": "hdfc-retirement-savings-fund-equity-plan-direct-growth",
       "status": "updated",
-      "content_hash": "fd57c5cfa263186a265d4d8f2e52baeeb4ace9165ebdf952908aa9dda1ad9898",
-      "scrape_time_ms": 1016,
+      "content_hash": "078da354cdc162d839099df23dda1b9ae5737b1ec955dc0492b2d63d46938fa1",
+      "scrape_time_ms": 956,
       "method": "requests",
       "sections_found": [
         "full_page"

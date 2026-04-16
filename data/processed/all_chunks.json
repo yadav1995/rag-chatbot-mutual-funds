@@ -513,7 +513,7 @@
     }
   },
   {
-    "text": "HDFC Equity Fund — Compare Similar Funds\nITI Flexi Cap Fund Direct Growth | 1Y: +12.00% | 3Y: +22.08% | Size: 1,133.99 Cr\nInvesco India Flexi Cap Fund Direct Growth | 1Y: +6.43% | 3Y: +21.04% | Size: 4,202.43 Cr\nHDFC Flexi Cap Direct Plan Growth | 1Y: +7.90% | 3Y: +20.91% | Size: 91,334.91 Cr\nParag Parikh Flexi Cap Fund Direct Growth | 1Y: +6.78% | 3Y: +18.42% | Size: 1,28,966.48 Cr\nFranklin India Flexi Cap Fund Direct Growth | 1Y: +4.39% | 3Y: +17.86% | Size: 17,535.63 Cr",
+    "text": "HDFC Equity Fund — Compare Similar Funds\nITI Flexi Cap Fund Direct Growth | 1Y: +12.00% | 3Y: +22.08% | Size: 1,133.99 Cr\nInvesco India Flexi Cap Fund Direct Growth | 1Y: +6.43% | 3Y: +21.04% | Size: 4,202.43 Cr\nHDFC Flexi Cap Direct Plan Growth | 1Y: +7.90% | 3Y: +20.91% | Size: 91,334.91 Cr\nParag Parikh Flexi Cap Fund Direct Growth | 1Y: +7.22% | 3Y: +19.00% | Size: 1,28,966.48 Cr\nFranklin India Flexi Cap Fund Direct Growth | 1Y: +4.39% | 3Y: +17.86% | Size: 17,535.63 Cr",
     "metadata": {
       "chunk_id": "hdfc-equity-fund-direct-growth-compare_similar-0",
       "scheme_name": "HDFC Equity Fund",
@@ -528,7 +528,7 @@
       "total_chunks": 1,
       "token_count": 212,
       "data_points": "peer_comparison",
-      "content_hash": "be3088766666895e314b570a10b7f5f4cd977d2eb9848d5a5906f8c753b583df"
+      "content_hash": "2f686ad18818412dc3c47b9bac795047e4f03c6e082d142c1c7157ea3ce27c54"
     }
   },
   {
@@ -665,7 +665,7 @@
     }
   },
   {
-    "text": "HDFC Focused Fund — Compare Similar Funds\nITI Flexi Cap Fund Direct Growth | 1Y: +12.00% | 3Y: +22.08% | Size: 1,133.99 Cr\nInvesco India Flexi Cap Fund Direct Growth | 1Y: +6.43% | 3Y: +21.04% | Size: 4,202.43 Cr\nHDFC Flexi Cap Direct Plan Growth | 1Y: +7.90% | 3Y: +20.91% | Size: 91,334.91 Cr\nParag Parikh Flexi Cap Fund Direct Growth | 1Y: +6.78% | 3Y: +18.42% | Size: 1,28,966.48 Cr\nFranklin India Flexi Cap Fund Direct Growth | 1Y: +4.39% | 3Y: +17.86% | Size: 17,535.63 Cr",
+    "text": "HDFC Focused Fund — Compare Similar Funds\nITI Flexi Cap Fund Direct Growth | 1Y: +12.00% | 3Y: +22.08% | Size: 1,133.99 Cr\nInvesco India Flexi Cap Fund Direct Growth | 1Y: +6.43% | 3Y: +21.04% | Size: 4,202.43 Cr\nHDFC Flexi Cap Direct Plan Growth | 1Y: +7.90% | 3Y: +20.91% | Size: 91,334.91 Cr\nParag Parikh Flexi Cap Fund Direct Growth | 1Y: +7.22% | 3Y: +19.00% | Size: 1,28,966.48 Cr\nFranklin India Flexi Cap Fund Direct Growth | 1Y: +4.39% | 3Y: +17.86% | Size: 17,535.63 Cr",
     "metadata": {
       "chunk_id": "hdfc-focused-fund-direct-growth-compare_similar-0",
       "scheme_name": "HDFC Focused Fund",
@@ -680,7 +680,7 @@
       "total_chunks": 1,
       "token_count": 213,
       "data_points": "peer_comparison",
-      "content_hash": "6144138867247885e87d6458f342d6e1f33c052122692c90deb88b8428bb15e5"
+      "content_hash": "6602fda856c593de4946cea864deb166f3a3f920cff994e1babfca12a8a18215"
     }
   },
   {
@@ -1520,7 +1520,7 @@
     }
   },
   {
-    "text": "HDFC Multi Asset Active FoF — Compare Similar Funds\nQuant Multi Asset Allocation Fund Direct Growth | 1Y: +25.94% | 3Y: +24.77% | Size: 4,754.57 Cr\nNippon India Multi Asset Allocation Fund Direct Growth | 1Y: +22.74% | 3Y: +21.35% | Size: 13,138.56 Cr\nSBI Multi Asset Allocation Fund Direct Growth | 1Y: +19.46% | 3Y: +18.72% | Size: 16,149.83 Cr\nICICI Prudential Multi Asset Fund Direct Growth | 1Y: +12.62% | 3Y: +18.54% | Size: 77,658.27 Cr\nHDFC Multi Asset Allocation Fund Direct Growth | 1Y: +11.18% | 3Y: +14.96% | Size: 5,555.82 Cr",
+    "text": "HDFC Multi Asset Active FoF — Compare Similar Funds\nQuant Multi Asset Allocation Fund Direct Growth | 1Y: +25.94% | 3Y: +24.77% | Size: 4,754.57 Cr\nNippon India Multi Asset Allocation Fund Direct Growth | 1Y: +22.57% | 3Y: +21.86% | Size: 13,138.56 Cr\nICICI Prudential Multi Asset Fund Direct Growth | 1Y: +12.90% | 3Y: +19.07% | Size: 77,658.27 Cr\nSBI Multi Asset Allocation Fund Direct Growth | 1Y: +19.46% | 3Y: +18.72% | Size: 16,149.83 Cr\nHDFC Multi Asset Allocation Fund Direct Growth | 1Y: +11.18% | 3Y: +14.96% | Size: 5,555.82 Cr",
     "metadata": {
       "chunk_id": "hdfc-multi-asset-active-fof-direct-growth-compare_similar-0",
       "scheme_name": "HDFC Multi Asset Active FoF",
@@ -1535,7 +1535,7 @@
       "total_chunks": 1,
       "token_count": 211,
       "data_points": "peer_comparison",
-      "content_hash": "361e320c2f1e720f25e81630f7494bdfdb64b48f84d209f4218b519d6cc858b6"
+      "content_hash": "3a6181800dad9581538d8402a6f75799fc4470f50c22562359df55f5c93858c8"
     }
   },
   {
@@ -2204,7 +2204,7 @@
     }
   },
   {
-    "text": "HDFC Retirement Savings Fund - Equity Plan — Compare Similar Funds\nITI Flexi Cap Fund Direct Growth | 1Y: +12.00% | 3Y: +22.08% | Size: 1,133.99 Cr\nInvesco India Flexi Cap Fund Direct Growth | 1Y: +6.43% | 3Y: +21.04% | Size: 4,202.43 Cr\nHDFC Flexi Cap Direct Plan Growth | 1Y: +7.90% | 3Y: +20.91% | Size: 91,334.91 Cr\nParag Parikh Flexi Cap Fund Direct Growth | 1Y: +6.78% | 3Y: +18.42% | Size: 1,28,966.48 Cr\nFranklin India Flexi Cap Fund Direct Growth | 1Y: +4.39% | 3Y: +17.86% | Size: 17,535.63 Cr",
+    "text": "HDFC Retirement Savings Fund - Equity Plan — Compare Similar Funds\nITI Flexi Cap Fund Direct Growth | 1Y: +12.00% | 3Y: +22.08% | Size: 1,133.99 Cr\nInvesco India Flexi Cap Fund Direct Growth | 1Y: +6.43% | 3Y: +21.04% | Size: 4,202.43 Cr\nHDFC Flexi Cap Direct Plan Growth | 1Y: +7.90% | 3Y: +20.91% | Size: 91,334.91 Cr\nParag Parikh Flexi Cap Fund Direct Growth | 1Y: +7.22% | 3Y: +19.00% | Size: 1,28,966.48 Cr\nFranklin India Flexi Cap Fund Direct Growth | 1Y: +4.39% | 3Y: +17.86% | Size: 17,535.63 Cr",
     "metadata": {
       "chunk_id": "hdfc-retirement-savings-fund-equity-plan-direct-growth-compare_similar-0",
       "scheme_name": "HDFC Retirement Savings Fund - Equity Plan",
@@ -2219,7 +2219,7 @@
       "total_chunks": 1,
       "token_count": 216,
       "data_points": "peer_comparison",
-      "content_hash": "662df21ff7dff08b06b75bd2e22bb8bbd9f333f02373e7e8bdd492a66113cfc0"
+      "content_hash": "ff021784970b38ab626e5071b424f4ecefcb378d31d842e45e312e4764676b14"
     }
   },
   {
