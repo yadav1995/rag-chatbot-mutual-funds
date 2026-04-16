@@ -1,6 +1,6 @@
 [
   {
-    "text": "HDFC Balanced Advantage Fund — Fund Details\nNAV: 13 Apr '26: ₹552.32\nMin. for SIP: ₹100\nFund size (AUM): ₹98,457.75 Cr\nExpense ratio: 0.75%\nRating: 5",
+    "text": "HDFC Balanced Advantage Fund — Fund Details\nNAV: 15 Apr '26: ₹559.72\nMin. for SIP: ₹100\nFund size (AUM): ₹98,457.75 Cr\nExpense ratio: 0.75%\nRating: 5",
     "metadata": {
       "chunk_id": "hdfc-balanced-advantage-fund-direct-growth-fund_details-0",
       "scheme_name": "HDFC Balanced Advantage Fund",
@@ -10,12 +10,12 @@
       "doc_type": "groww_page",
       "section": "fund_details",
       "source_url": "https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 57,
       "data_points": "nav,min_sip,fund_size,expense_ratio,rating",
-      "content_hash": "d8667e5e27b9e33fb007e1e363a45e2026863c19d0a4850a185808eedcc5cc90"
+      "content_hash": "a4ca6383b4a022536e33fe22f14e74d96d04ccbc9acfe29a4100680f45c33b49"
     }
   },
   {
@@ -29,7 +29,7 @@
       "doc_type": "groww_page",
       "section": "holdings",
       "source_url": "https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 165,
@@ -38,7 +38,7 @@
     }
   },
   {
-    "text": "HDFC Balanced Advantage Fund — Returns and Rankings\nName | 3Y | 5Y | 10Y | All\nFund returns | +16.4% | +17.8% | +15.1% | +14.7%\nCategory average (Hybrid Dynamic Asset Allocation) | +11.9% | +10.7% | +9.6% | --\nRank (Hybrid Dynamic Asset Allocation) | 2 | 1 | -- | --",
+    "text": "HDFC Balanced Advantage Fund — Returns and Rankings\nName | 3Y | 5Y | 10Y | All\nFund returns | +16.8% | +18.0% | +15.3% | +14.8%\nCategory average (Hybrid Dynamic Asset Allocation) | +11.9% | +10.7% | +9.6% | --\nRank (Hybrid Dynamic Asset Allocation) | 2 | 1 | -- | --",
     "metadata": {
       "chunk_id": "hdfc-balanced-advantage-fund-direct-growth-returns_rankings-0",
       "scheme_name": "HDFC Balanced Advantage Fund",
@@ -48,12 +48,12 @@
       "doc_type": "groww_page",
       "section": "returns_rankings",
       "source_url": "https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 100,
       "data_points": "fund_returns,category_average,rank",
-      "content_hash": "bf7d17dd071372bd9098857840cd57bcefcf6e467ab15d48ba3004ea1916fb98"
+      "content_hash": "e1e9f2b8b84ba0eef1c8826aa8442860d47bdd0849790f130ae95d8c042efcfb"
     }
   },
   {
@@ -67,7 +67,7 @@
       "doc_type": "groww_page",
       "section": "exit_load_tax",
       "source_url": "https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 124,
@@ -86,7 +86,7 @@
       "doc_type": "groww_page",
       "section": "fund_manager",
       "source_url": "https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 5,
       "token_count": 468,
@@ -105,7 +105,7 @@
       "doc_type": "groww_page",
       "section": "fund_manager",
       "source_url": "https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 1,
       "total_chunks": 5,
       "token_count": 502,
@@ -124,7 +124,7 @@
       "doc_type": "groww_page",
       "section": "fund_manager",
       "source_url": "https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 2,
       "total_chunks": 5,
       "token_count": 319,
@@ -143,7 +143,7 @@
       "doc_type": "groww_page",
       "section": "fund_manager",
       "source_url": "https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 3,
       "total_chunks": 5,
       "token_count": 508,
@@ -162,7 +162,7 @@
       "doc_type": "groww_page",
       "section": "fund_manager",
       "source_url": "https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 4,
       "total_chunks": 5,
       "token_count": 454,
@@ -171,7 +171,7 @@
     }
   },
   {
-    "text": "HDFC Balanced Advantage Fund — Return Calculator (SIP)\n1 year: Invested ₹60,000 → Became ₹59,176 (-1.37%)\n3 years: Invested ₹1,80,000 → Became ₹2,00,631 (+11.46%)\n5 years: Invested ₹3,00,000 → Became ₹4,17,050 (+39.02%)\n10 years: Invested ₹6,00,000 → Became ₹13,23,317 (+120.55%)",
+    "text": "HDFC Balanced Advantage Fund — Return Calculator (SIP)\n1 year: Invested ₹60,000 → Became ₹59,920 (-0.13%)\n3 years: Invested ₹1,80,000 → Became ₹2,03,176 (+12.88%)\n5 years: Invested ₹3,00,000 → Became ₹4,22,270 (+40.76%)\n10 years: Invested ₹6,00,000 → Became ₹13,39,887 (+123.31%)",
     "metadata": {
       "chunk_id": "hdfc-balanced-advantage-fund-direct-growth-return_calculator-0",
       "scheme_name": "HDFC Balanced Advantage Fund",
@@ -181,16 +181,16 @@
       "doc_type": "groww_page",
       "section": "return_calculator",
       "source_url": "https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 108,
       "data_points": "sip_returns_1y,sip_returns_3y,sip_returns_5y,sip_returns_10y",
-      "content_hash": "95ac4f74b460527e59707618c5ad5073c56382f331bab336cc22833918de6690"
+      "content_hash": "9d97801b41c0ec477b57e6bac42f5b546e126b6cbc861ee4ecf34cd6d73f90cc"
     }
   },
   {
-    "text": "HDFC Balanced Advantage Fund — Compare Similar Funds\nHDFC Balanced Advantage Fund Direct Growth | 1Y: +5.93% | 3Y: +16.35% | Size: 98,457.75 Cr\nSBI Balanced Advantage Fund Direct Growth | 1Y: +8.64% | 3Y: +13.36% | Size: 38,487.87 Cr\nDSP Dynamic Asset Allocation Fund Direct Growth | 1Y: +7.48% | 3Y: +13.23% | Size: 3,548.38 Cr\nICICI Prudential Balanced Advantage Direct Growth | 1Y: +10.25% | 3Y: +13.17% | Size: 66,397.80 Cr\nNippon India Balanced Advantage Fund Direct Growth | 1Y: +7.44% | 3Y: +13.03% | Size: 9,031.58 Cr",
+    "text": "HDFC Balanced Advantage Fund — Compare Similar Funds\nHDFC Balanced Advantage Fund Direct Growth | 1Y: +5.82% | 3Y: +16.84% | Size: 98,457.75 Cr\nSBI Balanced Advantage Fund Direct Growth | 1Y: +8.39% | 3Y: +13.68% | Size: 38,487.87 Cr\nICICI Prudential Balanced Advantage Direct Growth | 1Y: +10.21% | 3Y: +13.61% | Size: 66,397.80 Cr\nDSP Dynamic Asset Allocation Fund Direct Growth | 1Y: +7.56% | 3Y: +13.54% | Size: 3,548.38 Cr\nNippon India Balanced Advantage Fund Direct Growth | 1Y: +7.15% | 3Y: +13.42% | Size: 9,031.58 Cr",
     "metadata": {
       "chunk_id": "hdfc-balanced-advantage-fund-direct-growth-compare_similar-0",
       "scheme_name": "HDFC Balanced Advantage Fund",
@@ -200,16 +200,16 @@
       "doc_type": "groww_page",
       "section": "compare_similar",
       "source_url": "https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 205,
       "data_points": "peer_comparison",
-      "content_hash": "7303425fcbeb3b8b0fe9396a4a8b6f62e4124c6e968437f6548e30aae803dd88"
+      "content_hash": "492f1b551c372ee84d575bbfd192669d022bb05462d3a8c78ee7b288ca86420e"
     }
   },
   {
-    "text": "Fund Name: HDFC ELSS Tax Saver Fund Direct Plan Growth\nCategory: ELSS • 3Y Lock-in | Equity | ELSS | Very High Risk\nReturns: +18.87 % 3Y annualised -0.84 % 1D",
+    "text": "Fund Name: HDFC ELSS Tax Saver Fund Direct Plan Growth\nCategory: ELSS • 3Y Lock-in | Equity | ELSS | Very High Risk\nReturns: +19.44 % 3Y annualised +1.54 % 1D",
     "metadata": {
       "chunk_id": "hdfc-elss-tax-saver-fund-direct-plan-growth-header-0",
       "scheme_name": "HDFC ELSS Tax Saver Fund",
@@ -219,16 +219,16 @@
       "doc_type": "groww_page",
       "section": "header",
       "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 55,
       "data_points": "fund_name,category,risk_level,returns",
-      "content_hash": "448fd32d9bf249b9ac5fd0ae3d83c0a6232735bc85febdc48a98df0d472298e0"
+      "content_hash": "552b52d1a2cf2b4c3c663f0e8a91254c8711b6c3527050a0d48273a2555ac430"
     }
   },
   {
-    "text": "HDFC ELSS Tax Saver Fund — Fund Details\nNAV: 13 Apr '26: ₹1,456.33\nMin. for SIP: ₹500\nFund size (AUM): ₹14,615.19 Cr\nExpense ratio: 1.10%\nRating: 5",
+    "text": "HDFC ELSS Tax Saver Fund — Fund Details\nNAV: 15 Apr '26: ₹1,478.76\nMin. for SIP: ₹500\nFund size (AUM): ₹14,615.19 Cr\nExpense ratio: 1.10%\nRating: 5",
     "metadata": {
       "chunk_id": "hdfc-elss-tax-saver-fund-direct-plan-growth-fund_details-0",
       "scheme_name": "HDFC ELSS Tax Saver Fund",
@@ -238,12 +238,12 @@
       "doc_type": "groww_page",
       "section": "fund_details",
       "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 62,
       "data_points": "nav,min_sip,fund_size,expense_ratio,rating",
-      "content_hash": "4c45210b093929277a7b8a099beeb76b8063a4d5dca77542d1b103d5a19d1157"
+      "content_hash": "83aefe0ec3f1569b5628513a99748e0b197c6b766fc3f168478e3792e7d397df"
     }
   },
   {
@@ -257,7 +257,7 @@
       "doc_type": "groww_page",
       "section": "holdings",
       "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 172,
@@ -266,7 +266,7 @@
     }
   },
   {
-    "text": "HDFC ELSS Tax Saver Fund — Returns and Rankings\nName | 3Y | 5Y | 10Y | All\nFund returns | +18.9% | +19.2% | +14.8% | +14.3%\nCategory average (Equity ELSS) | +16.4% | +16.5% | +14.0% | --\nRank (Equity ELSS) | 7 | 3 | 12 | --",
+    "text": "HDFC ELSS Tax Saver Fund — Returns and Rankings\nName | 3Y | 5Y | 10Y | All\nFund returns | +19.4% | +19.5% | +15.0% | +14.4%\nCategory average (Equity ELSS) | +16.4% | +16.5% | +14.0% | --\nRank (Equity ELSS) | 7 | 3 | 12 | --",
     "metadata": {
       "chunk_id": "hdfc-elss-tax-saver-fund-direct-plan-growth-returns_rankings-0",
       "scheme_name": "HDFC ELSS Tax Saver Fund",
@@ -276,12 +276,12 @@
       "doc_type": "groww_page",
       "section": "returns_rankings",
       "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 102,
       "data_points": "fund_returns,category_average,rank",
-      "content_hash": "23a3fb5f1e64969f0b1f214feaf34f0e36a70bbe8ff2bd6f470bcdf062ad118a"
+      "content_hash": "008d6077d6ef17ddbbb156ab9d36cdfb3e8302b44fc11aeac1c5013ec27d1088"
     }
   },
   {
@@ -295,7 +295,7 @@
       "doc_type": "groww_page",
       "section": "exit_load_tax",
       "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 103,
@@ -314,7 +314,7 @@
       "doc_type": "groww_page",
       "section": "fund_manager",
       "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 2,
       "token_count": 217,
@@ -333,7 +333,7 @@
       "doc_type": "groww_page",
       "section": "fund_manager",
       "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 1,
       "total_chunks": 2,
       "token_count": 489,
@@ -342,7 +342,7 @@
     }
   },
   {
-    "text": "HDFC ELSS Tax Saver Fund — Return Calculator (SIP)\n1 year: Invested ₹60,000 → Became ₹57,729 (-3.79%)\n3 years: Invested ₹1,80,000 → Became ₹2,02,745 (+12.64%)\n5 years: Invested ₹3,00,000 → Became ₹4,26,648 (+42.22%)\n10 years: Invested ₹6,00,000 → Became ₹13,08,327 (+118.05%)",
+    "text": "HDFC ELSS Tax Saver Fund — Return Calculator (SIP)\n1 year: Invested ₹60,000 → Became ₹58,578 (-2.37%)\n3 years: Invested ₹1,80,000 → Became ₹2,05,706 (+14.28%)\n5 years: Invested ₹3,00,000 → Became ₹4,32,812 (+44.27%)\n10 years: Invested ₹6,00,000 → Became ₹13,27,325 (+121.22%)",
     "metadata": {
       "chunk_id": "hdfc-elss-tax-saver-fund-direct-plan-growth-return_calculator-0",
       "scheme_name": "HDFC ELSS Tax Saver Fund",
@@ -352,16 +352,16 @@
       "doc_type": "groww_page",
       "section": "return_calculator",
       "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 111,
       "data_points": "sip_returns_1y,sip_returns_3y,sip_returns_5y,sip_returns_10y",
-      "content_hash": "b05c0e8fc2644b97aadeab9d96d6bf4b46668615a8153801aaa04d6c88d9dcbf"
+      "content_hash": "f0860b123c409b438091b9dad3d90fbb3029721e523a61e86d5c6f6ab92d6619"
     }
   },
   {
-    "text": "HDFC ELSS Tax Saver Fund — Compare Similar Funds\nMotilal Oswal ELSS Tax Saver Fund Direct Growth | 1Y: +18.43% | 3Y: +25.00% | Size: 3,968.68 Cr\nSBI ELSS Tax Saver Fund Direct Growth | 1Y: +7.09% | 3Y: +21.61% | Size: 28,441.43 Cr\nWhiteOak Capital ELSS Tax Saver Fund Direct Growth | 1Y: +7.75% | 3Y: +20.20% | Size: 402.93 Cr\nHDFC ELSS Tax Saver Fund Direct Plan Growth | 1Y: +5.57% | 3Y: +18.87% | Size: 14,615.19 Cr\nParag Parikh ELSS Tax Saver Fund Direct Growth | 1Y: +2.39% | 3Y: +14.91% | Size: 5,260.64 Cr",
+    "text": "HDFC ELSS Tax Saver Fund — Compare Similar Funds\nMotilal Oswal ELSS Tax Saver Fund Direct Growth | 1Y: +16.55% | 3Y: +25.72% | Size: 3,968.68 Cr\nSBI ELSS Tax Saver Fund Direct Growth | 1Y: +6.74% | 3Y: +22.24% | Size: 28,441.43 Cr\nWhiteOak Capital ELSS Tax Saver Fund Direct Growth | 1Y: +7.02% | 3Y: +20.88% | Size: 402.93 Cr\nHDFC ELSS Tax Saver Fund Direct Plan Growth | 1Y: +4.81% | 3Y: +19.44% | Size: 14,615.19 Cr\nParag Parikh ELSS Tax Saver Fund Direct Growth | 1Y: +1.70% | 3Y: +15.30% | Size: 5,260.64 Cr",
     "metadata": {
       "chunk_id": "hdfc-elss-tax-saver-fund-direct-plan-growth-compare_similar-0",
       "scheme_name": "HDFC ELSS Tax Saver Fund",
@@ -371,16 +371,16 @@
       "doc_type": "groww_page",
       "section": "compare_similar",
       "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 224,
       "data_points": "peer_comparison",
-      "content_hash": "b2d05d8bdf9a9643b5046e8d6f63577bfa264af5863b289fc368a04b3f02baa8"
+      "content_hash": "5401ff2218ebbab0f219eca20df96cf07b56218e412d2b118b99d43f39abf26d"
     }
   },
   {
-    "text": "HDFC Equity Fund — Fund Details\nNAV: 13 Apr '26: ₹2,145.07\nMin. for SIP: ₹100\nFund size (AUM): ₹91,334.91 Cr\nExpense ratio: 0.68%\nRating: 5",
+    "text": "HDFC Equity Fund — Fund Details\nNAV: 15 Apr '26: ₹2,178.62\nMin. for SIP: ₹100\nFund size (AUM): ₹91,334.91 Cr\nExpense ratio: 0.68%\nRating: 5",
     "metadata": {
       "chunk_id": "hdfc-equity-fund-direct-growth-fund_details-0",
       "scheme_name": "HDFC Equity Fund",
@@ -390,12 +390,12 @@
       "doc_type": "groww_page",
       "section": "fund_details",
       "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 58,
       "data_points": "nav,min_sip,fund_size,expense_ratio,rating",
-      "content_hash": "8322cb63af14def19f08c0a6e7e9df455064e1c618486fe4b105d363fd635766"
+      "content_hash": "2ed01ccee629357ce76decf8c68ef7167ca010d589ca0de4fb49dcb057b77e71"
     }
   },
   {
@@ -409,7 +409,7 @@
       "doc_type": "groww_page",
       "section": "holdings",
       "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 173,
@@ -418,7 +418,7 @@
     }
   },
   {
-    "text": "HDFC Equity Fund — Returns and Rankings\nName | 3Y | 5Y | 10Y | All\nFund returns | +20.3% | +20.9% | +17.3% | +16.0%\nCategory average (Equity Flexi Cap) | +16.0% | +15.6% | +13.5% | --\nRank (Equity Flexi Cap) | 7 | 3 | 2 | --",
+    "text": "HDFC Equity Fund — Returns and Rankings\nName | 3Y | 5Y | 10Y | All\nFund returns | +20.9% | +21.2% | +17.5% | +16.2%\nCategory average (Equity Flexi Cap) | +16.0% | +15.6% | +13.5% | --\nRank (Equity Flexi Cap) | 7 | 3 | 1 | --",
     "metadata": {
       "chunk_id": "hdfc-equity-fund-direct-growth-returns_rankings-0",
       "scheme_name": "HDFC Equity Fund",
@@ -428,12 +428,12 @@
       "doc_type": "groww_page",
       "section": "returns_rankings",
       "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 100,
       "data_points": "fund_returns,category_average,rank",
-      "content_hash": "b5c10c0bdfd14016ec2ae0754c82c93119f10cf5a117c9f3029e92638fda5ac2"
+      "content_hash": "b687f56dad868179080a61894c5280dd280b87b8e55e09f27e01ea39e112b011"
     }
   },
   {
@@ -447,7 +447,7 @@
       "doc_type": "groww_page",
       "section": "exit_load_tax",
       "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 110,
@@ -466,7 +466,7 @@
       "doc_type": "groww_page",
       "section": "fund_manager",
       "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 2,
       "token_count": 217,
@@ -485,7 +485,7 @@
       "doc_type": "groww_page",
       "section": "fund_manager",
       "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 1,
       "total_chunks": 2,
       "token_count": 489,
@@ -494,7 +494,7 @@
     }
   },
   {
-    "text": "HDFC Equity Fund — Return Calculator (SIP)\n1 year: Invested ₹60,000 → Became ₹58,997 (-1.67%)\n3 years: Invested ₹1,80,000 → Became ₹2,10,357 (+16.86%)\n5 years: Invested ₹3,00,000 → Became ₹4,47,754 (+49.25%)\n10 years: Invested ₹6,00,000 → Became ₹14,90,202 (+148.37%)",
+    "text": "HDFC Equity Fund — Return Calculator (SIP)\n1 year: Invested ₹60,000 → Became ₹59,864 (-0.23%)\n3 years: Invested ₹1,80,000 → Became ₹2,13,452 (+18.58%)\n5 years: Invested ₹3,00,000 → Became ₹4,54,287 (+51.43%)\n10 years: Invested ₹6,00,000 → Became ₹15,12,026 (+152.00%)",
     "metadata": {
       "chunk_id": "hdfc-equity-fund-direct-growth-return_calculator-0",
       "scheme_name": "HDFC Equity Fund",
@@ -504,16 +504,16 @@
       "doc_type": "groww_page",
       "section": "return_calculator",
       "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 107,
       "data_points": "sip_returns_1y,sip_returns_3y,sip_returns_5y,sip_returns_10y",
-      "content_hash": "4d5c968a1f17b98182fd9929ba098412705a25841130ab8d42e0b831d8823f17"
+      "content_hash": "915f7278b9c7a5d1449d7063e88e1917819ed87af7907e96f7e4dd9ae9e38c26"
     }
   },
   {
-    "text": "HDFC Equity Fund — Compare Similar Funds\nITI Flexi Cap Fund Direct Growth | 1Y: +13.09% | 3Y: +21.42% | Size: 1,133.99 Cr\nHDFC Flexi Cap Direct Plan Growth | 1Y: +8.46% | 3Y: +20.32% | Size: 91,334.91 Cr\nInvesco India Flexi Cap Fund Direct Growth | 1Y: +7.34% | 3Y: +20.22% | Size: 4,202.43 Cr\nParag Parikh Flexi Cap Fund Direct Growth | 1Y: +6.78% | 3Y: +18.42% | Size: 1,28,966.48 Cr\nFranklin India Flexi Cap Fund Direct Growth | 1Y: +5.13% | 3Y: +17.20% | Size: 17,535.63 Cr",
+    "text": "HDFC Equity Fund — Compare Similar Funds\nITI Flexi Cap Fund Direct Growth | 1Y: +12.00% | 3Y: +22.08% | Size: 1,133.99 Cr\nInvesco India Flexi Cap Fund Direct Growth | 1Y: +6.43% | 3Y: +21.04% | Size: 4,202.43 Cr\nHDFC Flexi Cap Direct Plan Growth | 1Y: +7.90% | 3Y: +20.91% | Size: 91,334.91 Cr\nParag Parikh Flexi Cap Fund Direct Growth | 1Y: +6.78% | 3Y: +18.42% | Size: 1,28,966.48 Cr\nFranklin India Flexi Cap Fund Direct Growth | 1Y: +4.39% | 3Y: +17.86% | Size: 17,535.63 Cr",
     "metadata": {
       "chunk_id": "hdfc-equity-fund-direct-growth-compare_similar-0",
       "scheme_name": "HDFC Equity Fund",
@@ -523,16 +523,16 @@
       "doc_type": "groww_page",
       "section": "compare_similar",
       "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 212,
       "data_points": "peer_comparison",
-      "content_hash": "38b5e5e204777223485f377689e003fcb72dd7a1539e91549025317146c4bd46"
+      "content_hash": "be3088766666895e314b570a10b7f5f4cd977d2eb9848d5a5906f8c753b583df"
     }
   },
   {
-    "text": "HDFC Focused Fund — Fund Details\nNAV: 13 Apr '26: ₹255.80\nMin. for SIP: ₹100\nFund size (AUM): ₹24,169.51 Cr\nExpense ratio: 0.65%\nRating: 5",
+    "text": "HDFC Focused Fund — Fund Details\nNAV: 15 Apr '26: ₹259.41\nMin. for SIP: ₹100\nFund size (AUM): ₹24,169.51 Cr\nExpense ratio: 0.65%\nRating: 5",
     "metadata": {
       "chunk_id": "hdfc-focused-fund-direct-growth-fund_details-0",
       "scheme_name": "HDFC Focused Fund",
@@ -542,12 +542,12 @@
       "doc_type": "groww_page",
       "section": "fund_details",
       "source_url": "https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 57,
       "data_points": "nav,min_sip,fund_size,expense_ratio,rating",
-      "content_hash": "a2e6b8b3e737371dd8913d8681d5a757f22409fc43796dbd5a6ea8105d8d9305"
+      "content_hash": "ece32e98ea9953b1255912c31025cf945ba8e025cbc529f7f75d74b78bd08674"
     }
   },
   {
@@ -561,7 +561,7 @@
       "doc_type": "groww_page",
       "section": "holdings",
       "source_url": "https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 169,
@@ -570,7 +570,7 @@
     }
   },
   {
-    "text": "HDFC Focused Fund — Returns and Rankings\nName | 3Y | 5Y | 10Y | All\nFund returns | +20.0% | +22.4% | +16.0% | +14.9%\nCategory average (Equity Flexi Cap) | +16.0% | +15.6% | +13.5% | --\nRank (Equity Flexi Cap) | 9 | 2 | 8 | --",
+    "text": "HDFC Focused Fund — Returns and Rankings\nName | 3Y | 5Y | 10Y | All\nFund returns | +20.5% | +22.6% | +16.1% | +15.0%\nCategory average (Equity Flexi Cap) | +16.0% | +15.6% | +13.5% | --\nRank (Equity Flexi Cap) | 9 | 2 | 7 | --",
     "metadata": {
       "chunk_id": "hdfc-focused-fund-direct-growth-returns_rankings-0",
       "scheme_name": "HDFC Focused Fund",
@@ -580,12 +580,12 @@
       "doc_type": "groww_page",
       "section": "returns_rankings",
       "source_url": "https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 101,
       "data_points": "fund_returns,category_average,rank",
-      "content_hash": "6d73540c0cc2749c47324c8e484285ad8cab2a5daa1fcf6b3a85dd86fe22be4e"
+      "content_hash": "a80f0398b9dd449595d65c31027a251414d2ae004aade2aa1a722c30c9b6b6bf"
     }
   },
   {
@@ -599,7 +599,7 @@
       "doc_type": "groww_page",
       "section": "exit_load_tax",
       "source_url": "https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 111,
@@ -618,7 +618,7 @@
       "doc_type": "groww_page",
       "section": "fund_manager",
       "source_url": "https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 2,
       "token_count": 218,
@@ -637,7 +637,7 @@
       "doc_type": "groww_page",
       "section": "fund_manager",
       "source_url": "https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 1,
       "total_chunks": 2,
       "token_count": 489,
@@ -646,7 +646,7 @@
     }
   },
   {
-    "text": "HDFC Focused Fund — Return Calculator (SIP)\n1 year: Invested ₹60,000 → Became ₹58,736 (-2.11%)\n3 years: Invested ₹1,80,000 → Became ₹2,10,051 (+16.70%)\n5 years: Invested ₹3,00,000 → Became ₹4,53,548 (+51.18%)\n10 years: Invested ₹6,00,000 → Became ₹14,62,188 (+143.70%)",
+    "text": "HDFC Focused Fund — Return Calculator (SIP)\n1 year: Invested ₹60,000 → Became ₹59,519 (-0.80%)\n3 years: Invested ₹1,80,000 → Became ₹2,12,832 (+18.24%)\n5 years: Invested ₹3,00,000 → Became ₹4,59,476 (+53.16%)\n10 years: Invested ₹6,00,000 → Became ₹14,81,425 (+146.90%)",
     "metadata": {
       "chunk_id": "hdfc-focused-fund-direct-growth-return_calculator-0",
       "scheme_name": "HDFC Focused Fund",
@@ -656,16 +656,16 @@
       "doc_type": "groww_page",
       "section": "return_calculator",
       "source_url": "https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 108,
       "data_points": "sip_returns_1y,sip_returns_3y,sip_returns_5y,sip_returns_10y",
-      "content_hash": "a8ae30a40f7e407854f9f8bd771bc20e8dc866be7be1dc5be1e64afc8246bf4c"
+      "content_hash": "c962c10fb306f762360ab2c300c6fd7c9f3c15ae24b4ceceb31447591a75fa7a"
     }
   },
   {
-    "text": "HDFC Focused Fund — Compare Similar Funds\nITI Flexi Cap Fund Direct Growth | 1Y: +13.09% | 3Y: +21.42% | Size: 1,133.99 Cr\nHDFC Flexi Cap Direct Plan Growth | 1Y: +8.46% | 3Y: +20.32% | Size: 91,334.91 Cr\nInvesco India Flexi Cap Fund Direct Growth | 1Y: +7.34% | 3Y: +20.22% | Size: 4,202.43 Cr\nParag Parikh Flexi Cap Fund Direct Growth | 1Y: +6.78% | 3Y: +18.42% | Size: 1,28,966.48 Cr\nFranklin India Flexi Cap Fund Direct Growth | 1Y: +5.13% | 3Y: +17.20% | Size: 17,535.63 Cr",
+    "text": "HDFC Focused Fund — Compare Similar Funds\nITI Flexi Cap Fund Direct Growth | 1Y: +12.00% | 3Y: +22.08% | Size: 1,133.99 Cr\nInvesco India Flexi Cap Fund Direct Growth | 1Y: +6.43% | 3Y: +21.04% | Size: 4,202.43 Cr\nHDFC Flexi Cap Direct Plan Growth | 1Y: +7.90% | 3Y: +20.91% | Size: 91,334.91 Cr\nParag Parikh Flexi Cap Fund Direct Growth | 1Y: +6.78% | 3Y: +18.42% | Size: 1,28,966.48 Cr\nFranklin India Flexi Cap Fund Direct Growth | 1Y: +4.39% | 3Y: +17.86% | Size: 17,535.63 Cr",
     "metadata": {
       "chunk_id": "hdfc-focused-fund-direct-growth-compare_similar-0",
       "scheme_name": "HDFC Focused Fund",
@@ -675,16 +675,16 @@
       "doc_type": "groww_page",
       "section": "compare_similar",
       "source_url": "https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 213,
       "data_points": "peer_comparison",
-      "content_hash": "cf34c055ed3a12b6968c93ead9280ad02b7352680f2856bb3f8c52ddbfd08ed7"
+      "content_hash": "6144138867247885e87d6458f342d6e1f33c052122692c90deb88b8428bb15e5"
     }
   },
   {
-    "text": "HDFC Income Plus Arbitrage Active FoF — Fund Details\nNAV: 13 Apr '26: ₹44.62\nMin. for SIP: ₹100\nFund size (AUM): ₹2,389.94 Cr\nExpense ratio: 0.07%\nRating: --",
+    "text": "HDFC Income Plus Arbitrage Active FoF — Fund Details\nNAV: 15 Apr '26: ₹44.69\nMin. for SIP: ₹100\nFund size (AUM): ₹2,389.94 Cr\nExpense ratio: 0.07%\nRating: --",
     "metadata": {
       "chunk_id": "hdfc-i-come-plus-arbitrage-active-fof-direct-growth-fund_details-0",
       "scheme_name": "HDFC Income Plus Arbitrage Active FoF",
@@ -694,12 +694,12 @@
       "doc_type": "groww_page",
       "section": "fund_details",
       "source_url": "https://groww.in/mutual-funds/hdfc-i-come-plus-arbitrage-active-fof-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 60,
       "data_points": "nav,min_sip,fund_size,expense_ratio,rating",
-      "content_hash": "38974f3758708eec98318acc032382620b24da6679eb6524265e863e5777b9d5"
+      "content_hash": "310bec0d25d195a55cdd3c7f32ed56b0c3888b29746fc76ab3b4b26874e33a21"
     }
   },
   {
@@ -713,7 +713,7 @@
       "doc_type": "groww_page",
       "section": "holdings",
       "source_url": "https://groww.in/mutual-funds/hdfc-i-come-plus-arbitrage-active-fof-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 76,
@@ -722,7 +722,7 @@
     }
   },
   {
-    "text": "HDFC Income Plus Arbitrage Active FoF — Returns and Rankings\nName | 3Y | 5Y | 10Y | All\nFund returns | +12.6% | +12.7% | +12.5% | +11.2%\nCategory average (Debt Others) | -- | -- | -- | --\nRank (Debt Others) | -- | -- | -- | --",
+    "text": "HDFC Income Plus Arbitrage Active FoF — Returns and Rankings\nName | 3Y | 5Y | 10Y | All\nFund returns | +12.6% | +12.8% | +12.6% | +11.2%\nCategory average (Debt Others) | -- | -- | -- | --\nRank (Debt Others) | -- | -- | -- | --",
     "metadata": {
       "chunk_id": "hdfc-i-come-plus-arbitrage-active-fof-direct-growth-returns_rankings-0",
       "scheme_name": "HDFC Income Plus Arbitrage Active FoF",
@@ -732,12 +732,12 @@
       "doc_type": "groww_page",
       "section": "returns_rankings",
       "source_url": "https://groww.in/mutual-funds/hdfc-i-come-plus-arbitrage-active-fof-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 86,
       "data_points": "fund_returns,category_average,rank",
-      "content_hash": "cdebd63b8a737607d78953de040d7cd615de0ed908ffea3b76d1ed936f6e6e14"
+      "content_hash": "45009a6932f65b5607842167842848cb5c54a7259d57a698f0b4c05ae8d1e78a"
     }
   },
   {
@@ -751,7 +751,7 @@
       "doc_type": "groww_page",
       "section": "exit_load_tax",
       "source_url": "https://groww.in/mutual-funds/hdfc-i-come-plus-arbitrage-active-fof-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 57,
@@ -770,7 +770,7 @@
       "doc_type": "groww_page",
       "section": "fund_manager",
       "source_url": "https://groww.in/mutual-funds/hdfc-i-come-plus-arbitrage-active-fof-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 256,
@@ -779,7 +779,7 @@
     }
   },
   {
-    "text": "HDFC Income Plus Arbitrage Active FoF — Return Calculator (SIP)\n1 year: Invested ₹60,000 → Became ₹61,366 (+2.28%)\n3 years: Invested ₹1,80,000 → Became ₹1,98,935 (+10.52%)\n5 years: Invested ₹3,00,000 → Became ₹3,85,811 (+28.60%)\n10 years: Invested ₹6,00,000 → Became ₹11,09,316 (+84.89%)",
+    "text": "HDFC Income Plus Arbitrage Active FoF — Return Calculator (SIP)\n1 year: Invested ₹60,000 → Became ₹61,432 (+2.39%)\n3 years: Invested ₹1,80,000 → Became ₹1,99,142 (+10.63%)\n5 years: Invested ₹3,00,000 → Became ₹3,86,152 (+28.72%)\n10 years: Invested ₹6,00,000 → Became ₹11,10,212 (+85.04%)",
     "metadata": {
       "chunk_id": "hdfc-i-come-plus-arbitrage-active-fof-direct-growth-return_calculator-0",
       "scheme_name": "HDFC Income Plus Arbitrage Active FoF",
@@ -789,16 +789,16 @@
       "doc_type": "groww_page",
       "section": "return_calculator",
       "source_url": "https://groww.in/mutual-funds/hdfc-i-come-plus-arbitrage-active-fof-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 112,
       "data_points": "sip_returns_1y,sip_returns_3y,sip_returns_5y,sip_returns_10y",
-      "content_hash": "331b171ba26ff9622cc411155b34c66e33eea23c570bbde5c3c796416fc8a523"
+      "content_hash": "818ab0bd699569f09e94c3d0f9b8ba56fcdfc6d3e82b7f939684b1a3a7143a81"
     }
   },
   {
-    "text": "HDFC Infrastructure Fund — Fund Details\nNAV: 13 Apr '26: ₹50.56\nMin. for SIP: ₹100\nFund size (AUM): ₹2,131.53 Cr\nExpense ratio: 1.19%\nRating: 4",
+    "text": "HDFC Infrastructure Fund — Fund Details\nNAV: 15 Apr '26: ₹51.62\nMin. for SIP: ₹100\nFund size (AUM): ₹2,131.53 Cr\nExpense ratio: 1.19%\nRating: 4",
     "metadata": {
       "chunk_id": "hdfc-infrastructure-fund-direct-growth-fund_details-0",
       "scheme_name": "HDFC Infrastructure Fund",
@@ -808,12 +808,12 @@
       "doc_type": "groww_page",
       "section": "fund_details",
       "source_url": "https://groww.in/mutual-funds/hdfc-infrastructure-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 56,
       "data_points": "nav,min_sip,fund_size,expense_ratio,rating",
-      "content_hash": "aacd15c4a3c4a72379414f0956c3291ece8beddda2ec5aa980853b73296117c0"
+      "content_hash": "8662cd961c622c9c23cfbe35d8f78366b6167f96d1939f208ced54d1d707f675"
     }
   },
   {
@@ -827,7 +827,7 @@
       "doc_type": "groww_page",
       "section": "holdings",
       "source_url": "https://groww.in/mutual-funds/hdfc-infrastructure-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 175,
@@ -836,7 +836,7 @@
     }
   },
   {
-    "text": "HDFC Infrastructure Fund — Returns and Rankings\nName | 3Y | 5Y | 10Y | All\nFund returns | +25.5% | +25.3% | +13.1% | +12.0%\nCategory average (Equity Sectoral) | +22.4% | +24.9% | +15.4% | --\nRank (Equity Sectoral) | 7 | 6 | 19 | --",
+    "text": "HDFC Infrastructure Fund — Returns and Rankings\nName | 3Y | 5Y | 10Y | All\nFund returns | +26.3% | +25.8% | +13.3% | +12.2%\nCategory average (Equity Sectoral) | +22.4% | +24.9% | +15.4% | --\nRank (Equity Sectoral) | 7 | 6 | 19 | --",
     "metadata": {
       "chunk_id": "hdfc-infrastructure-fund-direct-growth-returns_rankings-0",
       "scheme_name": "HDFC Infrastructure Fund",
@@ -846,12 +846,12 @@
       "doc_type": "groww_page",
       "section": "returns_rankings",
       "source_url": "https://groww.in/mutual-funds/hdfc-infrastructure-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 98,
       "data_points": "fund_returns,category_average,rank",
-      "content_hash": "4c7c44d1e1950d7b67d4c8ced82c5c4ea2f4a262334690ef11b7f0dd1f2777d5"
+      "content_hash": "ea0fc686a6f9f1899da01efc6cd489b5f95c31ee25153833c7a2bc4804edbaa7"
     }
   },
   {
@@ -865,7 +865,7 @@
       "doc_type": "groww_page",
       "section": "exit_load_tax",
       "source_url": "https://groww.in/mutual-funds/hdfc-infrastructure-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 110,
@@ -884,7 +884,7 @@
       "doc_type": "groww_page",
       "section": "fund_manager",
       "source_url": "https://groww.in/mutual-funds/hdfc-infrastructure-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 2,
       "token_count": 506,
@@ -903,7 +903,7 @@
       "doc_type": "groww_page",
       "section": "fund_manager",
       "source_url": "https://groww.in/mutual-funds/hdfc-infrastructure-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 1,
       "total_chunks": 2,
       "token_count": 111,
@@ -912,7 +912,7 @@
     }
   },
   {
-    "text": "HDFC Infrastructure Fund — Return Calculator (SIP)\n1 year: Invested ₹60,000 → Became ₹58,638 (-2.27%)\n3 years: Invested ₹1,80,000 → Became ₹2,04,394 (+13.55%)\n5 years: Invested ₹3,00,000 → Became ₹4,75,759 (+58.59%)\n10 years: Invested ₹6,00,000 → Became ₹14,09,674 (+134.95%)",
+    "text": "HDFC Infrastructure Fund — Return Calculator (SIP)\n1 year: Invested ₹60,000 → Became ₹59,785 (-0.36%)\n3 years: Invested ₹1,80,000 → Became ₹2,08,456 (+15.81%)\n5 years: Invested ₹3,00,000 → Became ₹4,85,076 (+61.69%)\n10 years: Invested ₹6,00,000 → Became ₹14,37,642 (+139.61%)",
     "metadata": {
       "chunk_id": "hdfc-infrastructure-fund-direct-growth-return_calculator-0",
       "scheme_name": "HDFC Infrastructure Fund",
@@ -922,16 +922,16 @@
       "doc_type": "groww_page",
       "section": "return_calculator",
       "source_url": "https://groww.in/mutual-funds/hdfc-infrastructure-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 107,
       "data_points": "sip_returns_1y,sip_returns_3y,sip_returns_5y,sip_returns_10y",
-      "content_hash": "e73a61ef14528c39e435a61a286124365a7b0c7f3206b6ceb3e5aa4a427d88ff"
+      "content_hash": "2c24218bf3c7d82891022f6661ea9fc199c5a6ee0eed37918bf649dfbfca0aec"
     }
   },
   {
-    "text": "HDFC Large and Mid Cap Fund — Fund Details\nNAV: 13 Apr '26: ₹343.02\nMin. for SIP: ₹100\nFund size (AUM): ₹25,294.79 Cr\nExpense ratio: 0.88%\nRating: 4",
+    "text": "HDFC Large and Mid Cap Fund — Fund Details\nNAV: 15 Apr '26: ₹349.96\nMin. for SIP: ₹100\nFund size (AUM): ₹25,294.79 Cr\nExpense ratio: 0.88%\nRating: 4",
     "metadata": {
       "chunk_id": "hdfc-large-and-mid-cap-fund-direct-growth-fund_details-0",
       "scheme_name": "HDFC Large and Mid Cap Fund",
@@ -941,12 +941,12 @@
       "doc_type": "groww_page",
       "section": "fund_details",
       "source_url": "https://groww.in/mutual-funds/hdfc-large-and-mid-cap-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 59,
       "data_points": "nav,min_sip,fund_size,expense_ratio,rating",
-      "content_hash": "a54e97e9443d29babf26b52723f0dcb4777a1fd66892b739ca792741060dbe0d"
+      "content_hash": "45a1d544c1be54f610997b40ab49875558626f4cac92e5949609e625038bad32"
     }
   },
   {
@@ -960,7 +960,7 @@
       "doc_type": "groww_page",
       "section": "holdings",
       "source_url": "https://groww.in/mutual-funds/hdfc-large-and-mid-cap-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 164,
@@ -969,7 +969,7 @@
     }
   },
   {
-    "text": "HDFC Large and Mid Cap Fund — Returns and Rankings\nName | 3Y | 5Y | 10Y | All\nFund returns | +18.9% | +18.6% | +15.3% | +13.1%\nCategory average (Equity Large & MidCap) | +17.5% | +18.0% | +14.7% | --\nRank (Equity Large & MidCap) | 10 | 6 | 12 | --",
+    "text": "HDFC Large and Mid Cap Fund — Returns and Rankings\nName | 3Y | 5Y | 10Y | All\nFund returns | +19.6% | +19.0% | +15.5% | +13.3%\nCategory average (Equity Large & MidCap) | +17.5% | +18.0% | +14.7% | --\nRank (Equity Large & MidCap) | 10 | 6 | 11 | --",
     "metadata": {
       "chunk_id": "hdfc-large-and-mid-cap-fund-direct-growth-returns_rankings-0",
       "scheme_name": "HDFC Large and Mid Cap Fund",
@@ -979,12 +979,12 @@
       "doc_type": "groww_page",
       "section": "returns_rankings",
       "source_url": "https://groww.in/mutual-funds/hdfc-large-and-mid-cap-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 105,
       "data_points": "fund_returns,category_average,rank",
-      "content_hash": "ad260789317cfb33890888dce9356906d805b1ac8a0eb03b3a23f79d6ebb0627"
+      "content_hash": "48b41ede923bfcb720bf666d19405e6e8fa0a0ec186f5c35fa26ae63221d8ca1"
     }
   },
   {
@@ -998,7 +998,7 @@
       "doc_type": "groww_page",
       "section": "exit_load_tax",
       "source_url": "https://groww.in/mutual-funds/hdfc-large-and-mid-cap-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 113,
@@ -1017,7 +1017,7 @@
       "doc_type": "groww_page",
       "section": "fund_manager",
       "source_url": "https://groww.in/mutual-funds/hdfc-large-and-mid-cap-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 2,
       "token_count": 231,
@@ -1036,7 +1036,7 @@
       "doc_type": "groww_page",
       "section": "fund_manager",
       "source_url": "https://groww.in/mutual-funds/hdfc-large-and-mid-cap-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 1,
       "total_chunks": 2,
       "token_count": 489,
@@ -1055,7 +1055,7 @@
       "doc_type": "groww_page",
       "section": "return_calculator",
       "source_url": "https://groww.in/mutual-funds/hdfc-large-and-mid-cap-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 110,
@@ -1064,7 +1064,7 @@
     }
   },
   {
-    "text": "HDFC Large and Mid Cap Fund — Compare Similar Funds\nMotilal Oswal Large and Midcap Fund Direct Growth | 1Y: +20.19% | 3Y: +26.29% | Size: 13,995.29 Cr\nBandhan Large & Mid Cap Fund Direct Growth | 1Y: +12.16% | 3Y: +23.54% | Size: 14,108.57 Cr\nICICI Prudential Large & Mid Cap Fund Direct Plan Growth | 1Y: +9.55% | 3Y: +20.61% | Size: 27,004.55 Cr\nNippon India Vision Large & Mid Cap Direct Growth | 1Y: +9.08% | 3Y: +19.94% | Size: 6,299.19 Cr\nDSP Large & Mid Cap Fund Direct Plan Growth | 1Y: +8.20% | 3Y: +19.84% | Size: 15,780.10 Cr",
+    "text": "HDFC Large and Mid Cap Fund — Compare Similar Funds\nMotilal Oswal Large and Midcap Fund Direct Growth | 1Y: +18.61% | 3Y: +27.16% | Size: 13,995.29 Cr\nBandhan Large & Mid Cap Fund Direct Growth | 1Y: +11.74% | 3Y: +24.34% | Size: 14,108.57 Cr\nICICI Prudential Large & Mid Cap Fund Direct Plan Growth | 1Y: +9.21% | 3Y: +21.40% | Size: 27,004.55 Cr\nNippon India Vision Large & Mid Cap Direct Growth | 1Y: +8.24% | 3Y: +20.60% | Size: 6,299.19 Cr\nDSP Large & Mid Cap Fund Direct Plan Growth | 1Y: +7.19% | 3Y: +20.44% | Size: 15,780.10 Cr",
     "metadata": {
       "chunk_id": "hdfc-large-and-mid-cap-fund-direct-growth-compare_similar-0",
       "scheme_name": "HDFC Large and Mid Cap Fund",
@@ -1074,16 +1074,16 @@
       "doc_type": "groww_page",
       "section": "compare_similar",
       "source_url": "https://groww.in/mutual-funds/hdfc-large-and-mid-cap-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 221,
       "data_points": "peer_comparison",
-      "content_hash": "7a3420a40a8ddd03eedf933bdf8aae3947fa09e26fd5b11df0a207d62f807b88"
+      "content_hash": "3d7b642800202c65848e30e1aa01ca3b84da0dc3c7c51bba7bd263c132d3210d"
     }
   },
   {
-    "text": "HDFC Large Cap Fund — Fund Details\nNAV: 13 Apr '26: ₹1,183.02\nMin. for SIP: ₹100\nFund size (AUM): ₹35,458.50 Cr\nExpense ratio: 1.03%\nRating: 5",
+    "text": "HDFC Large Cap Fund — Fund Details\nNAV: 15 Apr '26: ₹1,200.53\nMin. for SIP: ₹100\nFund size (AUM): ₹35,458.50 Cr\nExpense ratio: 1.03%\nRating: 5",
     "metadata": {
       "chunk_id": "hdfc-large-cap-fund-direct-growth-fund_details-0",
       "scheme_name": "HDFC Large Cap Fund",
@@ -1093,12 +1093,12 @@
       "doc_type": "groww_page",
       "section": "fund_details",
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 59,
       "data_points": "nav,min_sip,fund_size,expense_ratio,rating",
-      "content_hash": "5fd9af60a498999cff310a1178ce4040f1e3ee491a44c88089af6d19eb40f13b"
+      "content_hash": "c35ca749ce4110ff7ca5cf73ab65cc7de42473f434db03d0628ec51613eaca1a"
     }
   },
   {
@@ -1112,7 +1112,7 @@
       "doc_type": "groww_page",
       "section": "holdings",
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 168,
@@ -1121,7 +1121,7 @@
     }
   },
   {
-    "text": "HDFC Large Cap Fund — Returns and Rankings\nName | 3Y | 5Y | 10Y | All\nFund returns | +13.7% | +14.8% | +13.9% | +13.2%\nCategory average (Equity Large Cap) | +15.1% | +15.0% | +13.2% | --\nRank (Equity Large Cap) | 46 | 13 | 9 | --",
+    "text": "HDFC Large Cap Fund — Returns and Rankings\nName | 3Y | 5Y | 10Y | All\nFund returns | +14.2% | +15.0% | +14.1% | +13.3%\nCategory average (Equity Large Cap) | +15.1% | +15.0% | +13.2% | --\nRank (Equity Large Cap) | 46 | 13 | 10 | --",
     "metadata": {
       "chunk_id": "hdfc-large-cap-fund-direct-growth-returns_rankings-0",
       "scheme_name": "HDFC Large Cap Fund",
@@ -1131,12 +1131,12 @@
       "doc_type": "groww_page",
       "section": "returns_rankings",
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 99,
       "data_points": "fund_returns,category_average,rank",
-      "content_hash": "5f95ba68132ec77fdc9d1ab891d4c8f0b35f9e64a0ea1afbf29f98902d78f6d6"
+      "content_hash": "eb61b420acaa76bf2d2a89a022d566130ca62cb27c3dd8a45a10eab6eb22147d"
     }
   },
   {
@@ -1150,7 +1150,7 @@
       "doc_type": "groww_page",
       "section": "exit_load_tax",
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 111,
@@ -1169,7 +1169,7 @@
       "doc_type": "groww_page",
       "section": "fund_manager",
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 2,
       "token_count": 229,
@@ -1188,7 +1188,7 @@
       "doc_type": "groww_page",
       "section": "fund_manager",
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 1,
       "total_chunks": 2,
       "token_count": 489,
@@ -1197,7 +1197,7 @@
     }
   },
   {
-    "text": "HDFC Large Cap Fund — Return Calculator (SIP)\n1 year: Invested ₹60,000 → Became ₹58,015 (-3.31%)\n3 years: Invested ₹1,80,000 → Became ₹1,92,224 (+6.79%)\n5 years: Invested ₹3,00,000 → Became ₹3,85,990 (+28.66%)\n10 years: Invested ₹6,00,000 → Became ₹11,71,371 (+95.23%)",
+    "text": "HDFC Large Cap Fund — Return Calculator (SIP)\n1 year: Invested ₹60,000 → Became ₹58,833 (-1.94%)\n3 years: Invested ₹1,80,000 → Became ₹1,94,955 (+8.31%)\n5 years: Invested ₹3,00,000 → Became ₹3,91,416 (+30.47%)\n10 years: Invested ₹6,00,000 → Became ₹11,87,801 (+97.97%)",
     "metadata": {
       "chunk_id": "hdfc-large-cap-fund-direct-growth-return_calculator-0",
       "scheme_name": "HDFC Large Cap Fund",
@@ -1207,16 +1207,16 @@
       "doc_type": "groww_page",
       "section": "return_calculator",
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 108,
       "data_points": "sip_returns_1y,sip_returns_3y,sip_returns_5y,sip_returns_10y",
-      "content_hash": "50d4b70d6e9b5b0ca6d54253c07f5a63fcb064107e9df01be7986d8d908155cc"
+      "content_hash": "eea69ddeede23a7c77d309431aa8d1b2ca1b1d3156e9a2e788caa54353d0a11b"
     }
   },
   {
-    "text": "HDFC Large Cap Fund — Compare Similar Funds\nNippon India Large Cap Fund Direct Growth | 1Y: +8.96% | 3Y: +17.59% | Size: 46,520.53 Cr\nWhiteOak Capital Large Cap Fund Direct Growth | 1Y: +8.75% | 3Y: +17.32% | Size: 1,045.06 Cr\nDSP Large Cap Fund Direct Growth | 1Y: +3.97% | 3Y: +16.49% | Size: 6,619.60 Cr\nICICI Prudential Large Cap Fund Direct Growth | 1Y: +7.07% | 3Y: +16.24% | Size: 69,947.55 Cr\nHDFC Large Cap Fund Direct Growth | 1Y: +4.60% | 3Y: +13.65% | Size: 35,458.50 Cr",
+    "text": "HDFC Large Cap Fund — Compare Similar Funds\nNippon India Large Cap Fund Direct Growth | 1Y: +8.19% | 3Y: +18.23% | Size: 46,520.53 Cr\nWhiteOak Capital Large Cap Fund Direct Growth | 1Y: +8.07% | 3Y: +17.88% | Size: 1,045.06 Cr\nDSP Large Cap Fund Direct Growth | 1Y: +3.09% | 3Y: +16.96% | Size: 6,619.60 Cr\nICICI Prudential Large Cap Fund Direct Growth | 1Y: +6.42% | 3Y: +16.87% | Size: 69,947.55 Cr\nHDFC Large Cap Fund Direct Growth | 1Y: +3.79% | 3Y: +14.18% | Size: 35,458.50 Cr",
     "metadata": {
       "chunk_id": "hdfc-large-cap-fund-direct-growth-compare_similar-0",
       "scheme_name": "HDFC Large Cap Fund",
@@ -1226,16 +1226,16 @@
       "doc_type": "groww_page",
       "section": "compare_similar",
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 206,
       "data_points": "peer_comparison",
-      "content_hash": "c752c0182a3c247bbbff5d6f548a7254b427fad1375cb576bc841656a466c4cf"
+      "content_hash": "68a2c46caf5cd28cb77633858ba8b061227fb6fb42285045ddade7b2fc9ac139"
     }
   },
   {
-    "text": "HDFC Mid-Cap Fund — Fund Details\nNAV: 13 Apr '26: ₹213.69\nMin. for SIP: ₹100\nFund size (AUM): ₹85,357.92 Cr\nExpense ratio: 0.77%\nRating: 5",
+    "text": "HDFC Mid-Cap Fund — Fund Details\nNAV: 15 Apr '26: ₹217.52\nMin. for SIP: ₹100\nFund size (AUM): ₹85,357.92 Cr\nExpense ratio: 0.77%\nRating: 5",
     "metadata": {
       "chunk_id": "hdfc-mid-cap-fund-direct-growth-fund_details-0",
       "scheme_name": "HDFC Mid-Cap Fund",
@@ -1245,12 +1245,12 @@
       "doc_type": "groww_page",
       "section": "fund_details",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 58,
       "data_points": "nav,min_sip,fund_size,expense_ratio,rating",
-      "content_hash": "02d57d6a85e38fd6894473805ff7550dedda3203d0bd22eb0814db21a0345121"
+      "content_hash": "f27cc39f5cea0d397f62015c80c414549be63cb70a24c110733c2dc8443b6c6c"
     }
   },
   {
@@ -1264,7 +1264,7 @@
       "doc_type": "groww_page",
       "section": "holdings",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 164,
@@ -1273,7 +1273,7 @@
     }
   },
   {
-    "text": "HDFC Mid-Cap Fund — Returns and Rankings\nName | 3Y | 5Y | 10Y | All\nFund returns | +24.4% | +22.4% | +18.8% | +20.1%\nCategory average (Equity Mid Cap) | +21.6% | +21.5% | +16.0% | --\nRank (Equity Mid Cap) | 10 | 4 | 5 | --",
+    "text": "HDFC Mid-Cap Fund — Returns and Rankings\nName | 3Y | 5Y | 10Y | All\nFund returns | +25.1% | +22.9% | +19.0% | +20.2%\nCategory average (Equity Mid Cap) | +21.6% | +21.5% | +16.0% | --\nRank (Equity Mid Cap) | 10 | 4 | 5 | --",
     "metadata": {
       "chunk_id": "hdfc-mid-cap-fund-direct-growth-returns_rankings-0",
       "scheme_name": "HDFC Mid-Cap Fund",
@@ -1283,12 +1283,12 @@
       "doc_type": "groww_page",
       "section": "returns_rankings",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 100,
       "data_points": "fund_returns,category_average,rank",
-      "content_hash": "e38409e9e31d4f2ed407f92b0cc77f315d4fe0d9fdd7c5fe8d1fd63a1e010945"
+      "content_hash": "afcaadd619fd9895d2b608c91095aa338c4bb0398fc215df58ab8b39b8124ce9"
     }
   },
   {
@@ -1302,7 +1302,7 @@
       "doc_type": "groww_page",
       "section": "exit_load_tax",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 112,
@@ -1321,7 +1321,7 @@
       "doc_type": "groww_page",
       "section": "fund_manager",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 2,
       "token_count": 207,
@@ -1340,7 +1340,7 @@
       "doc_type": "groww_page",
       "section": "fund_manager",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 1,
       "total_chunks": 2,
       "token_count": 489,
@@ -1349,7 +1349,7 @@
     }
   },
   {
-    "text": "HDFC Mid-Cap Fund — Return Calculator (SIP)\n1 year: Invested ₹60,000 → Became ₹59,966 (-0.06%)\n3 years: Invested ₹1,80,000 → Became ₹2,13,452 (+18.58%)\n5 years: Invested ₹3,00,000 → Became ₹4,71,452 (+57.15%)\n10 years: Invested ₹6,00,000 → Became ₹16,49,800 (+174.97%)",
+    "text": "HDFC Mid-Cap Fund — Return Calculator (SIP)\n1 year: Invested ₹60,000 → Became ₹60,962 (+1.60%)\n3 years: Invested ₹1,80,000 → Became ₹2,17,055 (+20.59%)\n5 years: Invested ₹3,00,000 → Became ₹4,79,340 (+59.78%)\n10 years: Invested ₹6,00,000 → Became ₹16,77,538 (+179.59%)",
     "metadata": {
       "chunk_id": "hdfc-mid-cap-fund-direct-growth-return_calculator-0",
       "scheme_name": "HDFC Mid-Cap Fund",
@@ -1359,16 +1359,16 @@
       "doc_type": "groww_page",
       "section": "return_calculator",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 109,
       "data_points": "sip_returns_1y,sip_returns_3y,sip_returns_5y,sip_returns_10y",
-      "content_hash": "13baebd6c70af6a512a56709cf57630da957e15b86aa92a867b6a64401bb4fb3"
+      "content_hash": "803fcb00950831f8829e270b60eb2cafdf1cf382d1e21885027ec1fe6392ef69"
     }
   },
   {
-    "text": "HDFC Mid-Cap Fund — Compare Similar Funds\nWhiteOak Capital Mid Cap Fund Direct Growth | 1Y: +20.93% | 3Y: +26.94% | Size: 4,490.64 Cr\nEdelweiss Mid Cap Direct Plan Growth | 1Y: +15.68% | 3Y: +26.13% | Size: 13,553.62 Cr\nNippon India Growth Mid Cap Fund Direct Growth | 1Y: +16.06% | 3Y: +25.76% | Size: 39,676.13 Cr\nSundaram Mid Cap Fund Direct Growth | 1Y: +14.92% | 3Y: +24.54% | Size: 11,898.19 Cr\nHDFC Mid Cap Fund Direct Growth | 1Y: +16.31% | 3Y: +24.44% | Size: 85,357.92 Cr",
+    "text": "HDFC Mid-Cap Fund — Compare Similar Funds\nWhiteOak Capital Mid Cap Fund Direct Growth | 1Y: +19.89% | 3Y: +27.72% | Size: 4,490.64 Cr\nEdelweiss Mid Cap Direct Plan Growth | 1Y: +14.11% | 3Y: +26.77% | Size: 13,553.62 Cr\nNippon India Growth Mid Cap Fund Direct Growth | 1Y: +15.10% | 3Y: +26.56% | Size: 39,676.13 Cr\nSundaram Mid Cap Fund Direct Growth | 1Y: +14.02% | 3Y: +25.24% | Size: 11,898.19 Cr\nHDFC Mid Cap Fund Direct Growth | 1Y: +15.38% | 3Y: +25.13% | Size: 85,357.92 Cr",
     "metadata": {
       "chunk_id": "hdfc-mid-cap-fund-direct-growth-compare_similar-0",
       "scheme_name": "HDFC Mid-Cap Fund",
@@ -1378,16 +1378,16 @@
       "doc_type": "groww_page",
       "section": "compare_similar",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 209,
       "data_points": "peer_comparison",
-      "content_hash": "e8ae5fb24fed6cab3105056ec9a0cb77478b863cee4c76ce02dbda655454ad7a"
+      "content_hash": "40b53c4d7e498e0f2fd70635832d72a398eb0b092b44ca2b1006bc7c811b1df8"
     }
   },
   {
-    "text": "HDFC Multi Asset Active FoF — Fund Details\nNAV: 13 Apr '26: ₹20.00\nMin. for SIP: ₹100\nFund size (AUM): ₹5,440.86 Cr\nExpense ratio: 0.07%\nRating: 4",
+    "text": "HDFC Multi Asset Active FoF — Fund Details\nNAV: 15 Apr '26: ₹20.24\nMin. for SIP: ₹100\nFund size (AUM): ₹5,440.86 Cr\nExpense ratio: 0.07%\nRating: 4",
     "metadata": {
       "chunk_id": "hdfc-multi-asset-active-fof-direct-growth-fund_details-0",
       "scheme_name": "HDFC Multi Asset Active FoF",
@@ -1397,12 +1397,12 @@
       "doc_type": "groww_page",
       "section": "fund_details",
       "source_url": "https://groww.in/mutual-funds/hdfc-multi-asset-active-fof-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 59,
       "data_points": "nav,min_sip,fund_size,expense_ratio,rating",
-      "content_hash": "820504c616cfa75ae1708cbcd912df3aa9b544104cfe151696d2d213b16260be"
+      "content_hash": "c91501163746a411c77ba77ffbd67c6cfa775dd3174d472398952cb3a168957d"
     }
   },
   {
@@ -1416,7 +1416,7 @@
       "doc_type": "groww_page",
       "section": "holdings",
       "source_url": "https://groww.in/mutual-funds/hdfc-multi-asset-active-fof-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 217,
@@ -1425,7 +1425,7 @@
     }
   },
   {
-    "text": "HDFC Multi Asset Active FoF — Returns and Rankings\nName | 6M | 1Y | 3Y | All\nFund returns | +0.5% | +11.1% | +15.9% | +15.1%\nCategory average (Hybrid Multi Asset Allocation) | +8.6% | +15.1% | +17.8% | --\nRank (Hybrid Multi Asset Allocation) | -- | 20 | 7 | --",
+    "text": "HDFC Multi Asset Active FoF — Returns and Rankings\nName | 6M | 1Y | 3Y | All\nFund returns | +1.2% | +11.2% | +16.4% | +15.3%\nCategory average (Hybrid Multi Asset Allocation) | +8.6% | +15.1% | +17.8% | --\nRank (Hybrid Multi Asset Allocation) | -- | 32 | 15 | --",
     "metadata": {
       "chunk_id": "hdfc-multi-asset-active-fof-direct-growth-returns_rankings-0",
       "scheme_name": "HDFC Multi Asset Active FoF",
@@ -1435,12 +1435,12 @@
       "doc_type": "groww_page",
       "section": "returns_rankings",
       "source_url": "https://groww.in/mutual-funds/hdfc-multi-asset-active-fof-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 102,
       "data_points": "fund_returns,category_average,rank",
-      "content_hash": "9570b8e460147fdbb0d7c518b4b96d2ff50ebfea3295937e58f7e28684a16819"
+      "content_hash": "9177db9f4012fb43b9c916b7aa9cf02c32b76034ed1d5b546797e839b42fc0e9"
     }
   },
   {
@@ -1454,7 +1454,7 @@
       "doc_type": "groww_page",
       "section": "exit_load_tax",
       "source_url": "https://groww.in/mutual-funds/hdfc-multi-asset-active-fof-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 79,
@@ -1473,7 +1473,7 @@
       "doc_type": "groww_page",
       "section": "fund_manager",
       "source_url": "https://groww.in/mutual-funds/hdfc-multi-asset-active-fof-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 2,
       "token_count": 505,
@@ -1492,7 +1492,7 @@
       "doc_type": "groww_page",
       "section": "fund_manager",
       "source_url": "https://groww.in/mutual-funds/hdfc-multi-asset-active-fof-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 1,
       "total_chunks": 2,
       "token_count": 147,
@@ -1501,7 +1501,7 @@
     }
   },
   {
-    "text": "HDFC Multi Asset Active FoF — Return Calculator (SIP)\n3 months: Invested ₹15,000 → Became ₹14,967 (-0.22%)\n6 months: Invested ₹30,000 → Became ₹29,800 (-0.67%)\n1 year: Invested ₹60,000 → Became ₹61,121 (+1.87%)\n3 years: Invested ₹1,80,000 → Became ₹2,12,309 (+17.95%)",
+    "text": "HDFC Multi Asset Active FoF — Return Calculator (SIP)\n3 months: Invested ₹15,000 → Became ₹15,090 (+0.60%)\n6 months: Invested ₹30,000 → Became ₹30,099 (+0.33%)\n1 year: Invested ₹60,000 → Became ₹61,764 (+2.94%)\n3 years: Invested ₹1,80,000 → Became ₹2,14,577 (+19.21%)",
     "metadata": {
       "chunk_id": "hdfc-multi-asset-active-fof-direct-growth-return_calculator-0",
       "scheme_name": "HDFC Multi Asset Active FoF",
@@ -1511,16 +1511,16 @@
       "doc_type": "groww_page",
       "section": "return_calculator",
       "source_url": "https://groww.in/mutual-funds/hdfc-multi-asset-active-fof-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 102,
       "data_points": "sip_returns_1y,sip_returns_3y,sip_returns_5y,sip_returns_10y",
-      "content_hash": "0f607a58e02dea39045ff37a93834b5166f48daedf8f780a705ad0df198b4068"
+      "content_hash": "981d272680e5f284d1760afd78e27005653ffaa38d0fabbcf0ac6499ac3b6ade"
     }
   },
   {
-    "text": "HDFC Multi Asset Active FoF — Compare Similar Funds\nQuant Multi Asset Allocation Fund Direct Growth | 1Y: +26.69% | 3Y: +24.43% | Size: 4,754.57 Cr\nNippon India Multi Asset Allocation Fund Direct Growth | 1Y: +22.74% | 3Y: +21.35% | Size: 13,138.56 Cr\nICICI Prudential Multi Asset Fund Direct Growth | 1Y: +12.62% | 3Y: +18.54% | Size: 77,658.27 Cr\nSBI Multi Asset Allocation Fund Direct Growth | 1Y: +19.38% | 3Y: +18.36% | Size: 16,149.83 Cr\nHDFC Multi Asset Allocation Fund Direct Growth | 1Y: +10.98% | 3Y: +14.52% | Size: 5,555.82 Cr",
+    "text": "HDFC Multi Asset Active FoF — Compare Similar Funds\nQuant Multi Asset Allocation Fund Direct Growth | 1Y: +25.94% | 3Y: +24.77% | Size: 4,754.57 Cr\nNippon India Multi Asset Allocation Fund Direct Growth | 1Y: +22.74% | 3Y: +21.35% | Size: 13,138.56 Cr\nSBI Multi Asset Allocation Fund Direct Growth | 1Y: +19.46% | 3Y: +18.72% | Size: 16,149.83 Cr\nICICI Prudential Multi Asset Fund Direct Growth | 1Y: +12.62% | 3Y: +18.54% | Size: 77,658.27 Cr\nHDFC Multi Asset Allocation Fund Direct Growth | 1Y: +11.18% | 3Y: +14.96% | Size: 5,555.82 Cr",
     "metadata": {
       "chunk_id": "hdfc-multi-asset-active-fof-direct-growth-compare_similar-0",
       "scheme_name": "HDFC Multi Asset Active FoF",
@@ -1530,16 +1530,16 @@
       "doc_type": "groww_page",
       "section": "compare_similar",
       "source_url": "https://groww.in/mutual-funds/hdfc-multi-asset-active-fof-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 211,
       "data_points": "peer_comparison",
-      "content_hash": "dbb1f892012dd2387af481726263c1749e221cae73b0cfaf0ca92648384189b4"
+      "content_hash": "361e320c2f1e720f25e81630f7494bdfdb64b48f84d209f4218b519d6cc858b6"
     }
   },
   {
-    "text": "HDFC Nifty 100 Equal Weight Index Fund — Fund Details\nNAV: 13 Apr '26: ₹16.49\nMin. for SIP: ₹100\nFund size (AUM): ₹376.42 Cr\nExpense ratio: 0.40%\nRating: 4",
+    "text": "HDFC Nifty 100 Equal Weight Index Fund — Fund Details\nNAV: 15 Apr '26: ₹16.83\nMin. for SIP: ₹100\nFund size (AUM): ₹376.42 Cr\nExpense ratio: 0.40%\nRating: 4",
     "metadata": {
       "chunk_id": "hdfc-nifty-100-equal-weight-index-fund-direct-growth-fund_details-0",
       "scheme_name": "HDFC Nifty 100 Equal Weight Index Fund",
@@ -1549,12 +1549,12 @@
       "doc_type": "groww_page",
       "section": "fund_details",
       "source_url": "https://groww.in/mutual-funds/hdfc-nifty-100-equal-weight-index-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 60,
       "data_points": "nav,min_sip,fund_size,expense_ratio,rating",
-      "content_hash": "e77f8454a4bbce91ba81824f7b3418452899c0c36d1e059138f1ee3010416283"
+      "content_hash": "8d29e5af5c9e68dde9b9dc0ff466161bc5377b3328d112a2f693595e9d3e0601"
     }
   },
   {
@@ -1568,7 +1568,7 @@
       "doc_type": "groww_page",
       "section": "holdings",
       "source_url": "https://groww.in/mutual-funds/hdfc-nifty-100-equal-weight-index-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 182,
@@ -1577,7 +1577,7 @@
     }
   },
   {
-    "text": "HDFC Nifty 100 Equal Weight Index Fund — Returns and Rankings\nName | 6M | 1Y | 3Y | All\nFund returns | -2.3% | +10.6% | +18.4% | +12.9%\nCategory average (Equity Large Cap) | +1.3% | +7.1% | +15.1% | --\nRank (Equity Large Cap) | -- | 12 | 16 | --",
+    "text": "HDFC Nifty 100 Equal Weight Index Fund — Returns and Rankings\nName | 6M | 1Y | 3Y | All\nFund returns | -0.9% | +10.0% | +19.2% | +13.4%\nCategory average (Equity Large Cap) | +1.3% | +7.1% | +15.1% | --\nRank (Equity Large Cap) | -- | 12 | 16 | --",
     "metadata": {
       "chunk_id": "hdfc-nifty-100-equal-weight-index-fund-direct-growth-returns_rankings-0",
       "scheme_name": "HDFC Nifty 100 Equal Weight Index Fund",
@@ -1587,12 +1587,12 @@
       "doc_type": "groww_page",
       "section": "returns_rankings",
       "source_url": "https://groww.in/mutual-funds/hdfc-nifty-100-equal-weight-index-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 103,
       "data_points": "fund_returns,category_average,rank",
-      "content_hash": "8fe8d29e05c175bf52679bc3906fe4a118d186a0d355108f1c760fe9c0c97773"
+      "content_hash": "a55932c09d299202ccc82292fa425238c3392387180f70d495f5e1e0175f65b9"
     }
   },
   {
@@ -1606,7 +1606,7 @@
       "doc_type": "groww_page",
       "section": "exit_load_tax",
       "source_url": "https://groww.in/mutual-funds/hdfc-nifty-100-equal-weight-index-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 105,
@@ -1625,7 +1625,7 @@
       "doc_type": "groww_page",
       "section": "fund_manager",
       "source_url": "https://groww.in/mutual-funds/hdfc-nifty-100-equal-weight-index-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 2,
       "token_count": 501,
@@ -1644,7 +1644,7 @@
       "doc_type": "groww_page",
       "section": "fund_manager",
       "source_url": "https://groww.in/mutual-funds/hdfc-nifty-100-equal-weight-index-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 1,
       "total_chunks": 2,
       "token_count": 454,
@@ -1663,7 +1663,7 @@
       "doc_type": "groww_page",
       "section": "return_calculator",
       "source_url": "https://groww.in/mutual-funds/hdfc-nifty-100-equal-weight-index-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 105,
@@ -1672,7 +1672,7 @@
     }
   },
   {
-    "text": "HDFC Nifty 100 Equal Weight Index Fund — Compare Similar Funds\nNippon India Large Cap Fund Direct Growth | 1Y: +8.96% | 3Y: +17.59% | Size: 46,520.53 Cr\nWhiteOak Capital Large Cap Fund Direct Growth | 1Y: +8.75% | 3Y: +17.32% | Size: 1,045.06 Cr\nDSP Large Cap Fund Direct Growth | 1Y: +3.97% | 3Y: +16.49% | Size: 6,619.60 Cr\nICICI Prudential Large Cap Fund Direct Growth | 1Y: +7.07% | 3Y: +16.24% | Size: 69,947.55 Cr\nHDFC Large Cap Fund Direct Growth | 1Y: +4.60% | 3Y: +13.65% | Size: 35,458.50 Cr",
+    "text": "HDFC Nifty 100 Equal Weight Index Fund — Compare Similar Funds\nNippon India Large Cap Fund Direct Growth | 1Y: +8.19% | 3Y: +18.23% | Size: 46,520.53 Cr\nWhiteOak Capital Large Cap Fund Direct Growth | 1Y: +8.07% | 3Y: +17.88% | Size: 1,045.06 Cr\nDSP Large Cap Fund Direct Growth | 1Y: +3.09% | 3Y: +16.96% | Size: 6,619.60 Cr\nICICI Prudential Large Cap Fund Direct Growth | 1Y: +6.42% | 3Y: +16.87% | Size: 69,947.55 Cr\nHDFC Large Cap Fund Direct Growth | 1Y: +3.79% | 3Y: +14.18% | Size: 35,458.50 Cr",
     "metadata": {
       "chunk_id": "hdfc-nifty-100-equal-weight-index-fund-direct-growth-compare_similar-0",
       "scheme_name": "HDFC Nifty 100 Equal Weight Index Fund",
@@ -1682,16 +1682,16 @@
       "doc_type": "groww_page",
       "section": "compare_similar",
       "source_url": "https://groww.in/mutual-funds/hdfc-nifty-100-equal-weight-index-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 211,
       "data_points": "peer_comparison",
-      "content_hash": "a21a80aba481ab65322dfc3c5dfc53c1d560d5491f1f5a86933af18bc164fb7b"
+      "content_hash": "3f61332bde17e0a0fad6c5d5439f79c1f83fa433940c017e20347bfa0b26194b"
     }
   },
   {
-    "text": "HDFC Nifty Next 50 Index Fund — Fund Details\nNAV: 13 Apr '26: ₹15.84\nMin. for SIP: ₹100\nFund size (AUM): ₹1,993.71 Cr\nExpense ratio: 0.30%\nRating: 4",
+    "text": "HDFC Nifty Next 50 Index Fund — Fund Details\nNAV: 15 Apr '26: ₹16.18\nMin. for SIP: ₹100\nFund size (AUM): ₹1,993.71 Cr\nExpense ratio: 0.30%\nRating: 4",
     "metadata": {
       "chunk_id": "hdfc-nifty-next-50-index-fund-direct-growth-fund_details-0",
       "scheme_name": "HDFC Nifty Next 50 Index Fund",
@@ -1701,12 +1701,12 @@
       "doc_type": "groww_page",
       "section": "fund_details",
       "source_url": "https://groww.in/mutual-funds/hdfc-nifty-next-50-index-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 61,
       "data_points": "nav,min_sip,fund_size,expense_ratio,rating",
-      "content_hash": "d39f09514c3cebb48c7089e44b4d3ff5d22425c89a7209d6fc9fb64025ffc83e"
+      "content_hash": "6ed26c17e4ef00446be6861f20541a7ee8e9d273176aaca6d4ea9c02f4685940"
     }
   },
   {
@@ -1720,7 +1720,7 @@
       "doc_type": "groww_page",
       "section": "holdings",
       "source_url": "https://groww.in/mutual-funds/hdfc-nifty-next-50-index-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 180,
@@ -1729,7 +1729,7 @@
     }
   },
   {
-    "text": "HDFC Nifty Next 50 Index Fund — Returns and Rankings\nName | 6M | 1Y | 3Y | All\nFund returns | -1.9% | +9.8% | +20.6% | +10.9%\nCategory average (Equity Large Cap) | +1.3% | +7.1% | +15.1% | --\nRank (Equity Large Cap) | -- | 28 | 15 | --",
+    "text": "HDFC Nifty Next 50 Index Fund — Returns and Rankings\nName | 6M | 1Y | 3Y | All\nFund returns | -0.6% | +8.8% | +21.4% | +11.4%\nCategory average (Equity Large Cap) | +1.3% | +7.1% | +15.1% | --\nRank (Equity Large Cap) | -- | 28 | 15 | --",
     "metadata": {
       "chunk_id": "hdfc-nifty-next-50-index-fund-direct-growth-returns_rankings-0",
       "scheme_name": "HDFC Nifty Next 50 Index Fund",
@@ -1739,12 +1739,12 @@
       "doc_type": "groww_page",
       "section": "returns_rankings",
       "source_url": "https://groww.in/mutual-funds/hdfc-nifty-next-50-index-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 102,
       "data_points": "fund_returns,category_average,rank",
-      "content_hash": "b14e7a1e0e44e4c1d4e6c7337384b6ad87398b40b831c4589b6cfc49ce48ecd5"
+      "content_hash": "b8bde39fac9268729a9dbaa5916e0f01980ab375f10be0797c137bda28476cdb"
     }
   },
   {
@@ -1758,7 +1758,7 @@
       "doc_type": "groww_page",
       "section": "exit_load_tax",
       "source_url": "https://groww.in/mutual-funds/hdfc-nifty-next-50-index-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 104,
@@ -1777,7 +1777,7 @@
       "doc_type": "groww_page",
       "section": "fund_manager",
       "source_url": "https://groww.in/mutual-funds/hdfc-nifty-next-50-index-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 2,
       "token_count": 500,
@@ -1796,7 +1796,7 @@
       "doc_type": "groww_page",
       "section": "fund_manager",
       "source_url": "https://groww.in/mutual-funds/hdfc-nifty-next-50-index-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 1,
       "total_chunks": 2,
       "token_count": 454,
@@ -1815,7 +1815,7 @@
       "doc_type": "groww_page",
       "section": "return_calculator",
       "source_url": "https://groww.in/mutual-funds/hdfc-nifty-next-50-index-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 104,
@@ -1824,7 +1824,7 @@
     }
   },
   {
-    "text": "HDFC Nifty Next 50 Index Fund — Compare Similar Funds\nNippon India Large Cap Fund Direct Growth | 1Y: +8.96% | 3Y: +17.59% | Size: 46,520.53 Cr\nWhiteOak Capital Large Cap Fund Direct Growth | 1Y: +8.75% | 3Y: +17.32% | Size: 1,045.06 Cr\nDSP Large Cap Fund Direct Growth | 1Y: +3.97% | 3Y: +16.49% | Size: 6,619.60 Cr\nICICI Prudential Large Cap Fund Direct Growth | 1Y: +7.07% | 3Y: +16.24% | Size: 69,947.55 Cr\nHDFC Large Cap Fund Direct Growth | 1Y: +4.60% | 3Y: +13.65% | Size: 35,458.50 Cr",
+    "text": "HDFC Nifty Next 50 Index Fund — Compare Similar Funds\nNippon India Large Cap Fund Direct Growth | 1Y: +8.19% | 3Y: +18.23% | Size: 46,520.53 Cr\nWhiteOak Capital Large Cap Fund Direct Growth | 1Y: +8.07% | 3Y: +17.88% | Size: 1,045.06 Cr\nDSP Large Cap Fund Direct Growth | 1Y: +3.09% | 3Y: +16.96% | Size: 6,619.60 Cr\nICICI Prudential Large Cap Fund Direct Growth | 1Y: +6.42% | 3Y: +16.87% | Size: 69,947.55 Cr\nHDFC Large Cap Fund Direct Growth | 1Y: +3.79% | 3Y: +14.18% | Size: 35,458.50 Cr",
     "metadata": {
       "chunk_id": "hdfc-nifty-next-50-index-fund-direct-growth-compare_similar-0",
       "scheme_name": "HDFC Nifty Next 50 Index Fund",
@@ -1834,16 +1834,16 @@
       "doc_type": "groww_page",
       "section": "compare_similar",
       "source_url": "https://groww.in/mutual-funds/hdfc-nifty-next-50-index-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 210,
       "data_points": "peer_comparison",
-      "content_hash": "bca999b8c330747b5e091978280ad0ef41495732a9db99c44307ca72621f7a20"
+      "content_hash": "9066985b7cf6aa410ce184bbadbd77879aed9cac773e8889f7f13c9fcabd7086"
     }
   },
   {
-    "text": "HDFC Nifty 50 Equal Weight Index Fund — Fund Details\nNAV: 13 Apr '26: ₹17.86\nMin. for SIP: ₹100\nFund size (AUM): ₹1,558.77 Cr\nExpense ratio: 0.40%\nRating: 4",
+    "text": "HDFC Nifty 50 Equal Weight Index Fund — Fund Details\nNAV: 15 Apr '26: ₹18.20\nMin. for SIP: ₹100\nFund size (AUM): ₹1,558.77 Cr\nExpense ratio: 0.40%\nRating: 4",
     "metadata": {
       "chunk_id": "hdfc-nifty50-equal-weight-index-fund-direct-growth-fund_details-0",
       "scheme_name": "HDFC Nifty 50 Equal Weight Index Fund",
@@ -1853,12 +1853,12 @@
       "doc_type": "groww_page",
       "section": "fund_details",
       "source_url": "https://groww.in/mutual-funds/hdfc-nifty50-equal-weight-index-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 62,
       "data_points": "nav,min_sip,fund_size,expense_ratio,rating",
-      "content_hash": "2f0534cf050d408acd2f5443cb74da5449e712492b2b65ca4c18269587c74fb8"
+      "content_hash": "8499f7a7d5476f5827f7a36defbf662b2a606bf86167e638037ed8b88abda7b8"
     }
   },
   {
@@ -1872,7 +1872,7 @@
       "doc_type": "groww_page",
       "section": "holdings",
       "source_url": "https://groww.in/mutual-funds/hdfc-nifty50-equal-weight-index-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 178,
@@ -1881,7 +1881,7 @@
     }
   },
   {
-    "text": "HDFC Nifty 50 Equal Weight Index Fund — Returns and Rankings\nName | 6M | 1Y | 3Y | All\nFund returns | -2.1% | +11.0% | +16.6% | +13.3%\nCategory average (Equity Large Cap) | +1.3% | +7.1% | +15.1% | --\nRank (Equity Large Cap) | -- | 6 | 24 | --",
+    "text": "HDFC Nifty 50 Equal Weight Index Fund — Returns and Rankings\nName | 6M | 1Y | 3Y | All\nFund returns | -0.7% | +10.8% | +17.3% | +13.7%\nCategory average (Equity Large Cap) | +1.3% | +7.1% | +15.1% | --\nRank (Equity Large Cap) | -- | 6 | 24 | --",
     "metadata": {
       "chunk_id": "hdfc-nifty50-equal-weight-index-fund-direct-growth-returns_rankings-0",
       "scheme_name": "HDFC Nifty 50 Equal Weight Index Fund",
@@ -1891,12 +1891,12 @@
       "doc_type": "groww_page",
       "section": "returns_rankings",
       "source_url": "https://groww.in/mutual-funds/hdfc-nifty50-equal-weight-index-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 103,
       "data_points": "fund_returns,category_average,rank",
-      "content_hash": "bfb532e0595f5d47df08e3eaf0044ff319d2750616e185004b3d58dd7e39c018"
+      "content_hash": "0fa70dff54eb861c92365496c2996ff47753195a1c38a0d4a707c045d343de45"
     }
   },
   {
@@ -1910,7 +1910,7 @@
       "doc_type": "groww_page",
       "section": "exit_load_tax",
       "source_url": "https://groww.in/mutual-funds/hdfc-nifty50-equal-weight-index-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 105,
@@ -1929,7 +1929,7 @@
       "doc_type": "groww_page",
       "section": "fund_manager",
       "source_url": "https://groww.in/mutual-funds/hdfc-nifty50-equal-weight-index-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 2,
       "token_count": 501,
@@ -1948,7 +1948,7 @@
       "doc_type": "groww_page",
       "section": "fund_manager",
       "source_url": "https://groww.in/mutual-funds/hdfc-nifty50-equal-weight-index-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 1,
       "total_chunks": 2,
       "token_count": 454,
@@ -1967,7 +1967,7 @@
       "doc_type": "groww_page",
       "section": "return_calculator",
       "source_url": "https://groww.in/mutual-funds/hdfc-nifty50-equal-weight-index-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 105,
@@ -1976,7 +1976,7 @@
     }
   },
   {
-    "text": "HDFC Nifty 50 Equal Weight Index Fund — Compare Similar Funds\nNippon India Large Cap Fund Direct Growth | 1Y: +8.96% | 3Y: +17.59% | Size: 46,520.53 Cr\nWhiteOak Capital Large Cap Fund Direct Growth | 1Y: +8.75% | 3Y: +17.32% | Size: 1,045.06 Cr\nDSP Large Cap Fund Direct Growth | 1Y: +3.97% | 3Y: +16.49% | Size: 6,619.60 Cr\nICICI Prudential Large Cap Fund Direct Growth | 1Y: +7.07% | 3Y: +16.24% | Size: 69,947.55 Cr\nHDFC Large Cap Fund Direct Growth | 1Y: +4.60% | 3Y: +13.65% | Size: 35,458.50 Cr",
+    "text": "HDFC Nifty 50 Equal Weight Index Fund — Compare Similar Funds\nNippon India Large Cap Fund Direct Growth | 1Y: +8.19% | 3Y: +18.23% | Size: 46,520.53 Cr\nWhiteOak Capital Large Cap Fund Direct Growth | 1Y: +8.07% | 3Y: +17.88% | Size: 1,045.06 Cr\nDSP Large Cap Fund Direct Growth | 1Y: +3.09% | 3Y: +16.96% | Size: 6,619.60 Cr\nICICI Prudential Large Cap Fund Direct Growth | 1Y: +6.42% | 3Y: +16.87% | Size: 69,947.55 Cr\nHDFC Large Cap Fund Direct Growth | 1Y: +3.79% | 3Y: +14.18% | Size: 35,458.50 Cr",
     "metadata": {
       "chunk_id": "hdfc-nifty50-equal-weight-index-fund-direct-growth-compare_similar-0",
       "scheme_name": "HDFC Nifty 50 Equal Weight Index Fund",
@@ -1986,16 +1986,16 @@
       "doc_type": "groww_page",
       "section": "compare_similar",
       "source_url": "https://groww.in/mutual-funds/hdfc-nifty50-equal-weight-index-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 211,
       "data_points": "peer_comparison",
-      "content_hash": "74bdd6b6dbe4084a46d5cfaf9e5f506ab3c5819b17d407ece45cdc1e9d8a1c5e"
+      "content_hash": "e757b7afc8ae18f6a1a95811e4a005dbd4a00d59fdcfba5bf8b67c72c52587d8"
     }
   },
   {
-    "text": "Fund Name: HDFC Retirement Savings Fund Equity Plan Direct Growth\nCategory: ELSS • 5Y Lock-in | Equity | Flexi Cap | Very High Risk\nReturns: +15.35 % 3Y annualised -0.86 % 1D",
+    "text": "Fund Name: HDFC Retirement Savings Fund Equity Plan Direct Growth\nCategory: ELSS • 5Y Lock-in | Equity | Flexi Cap | Very High Risk\nReturns: +15.99 % 3Y annualised +1.76 % 1D",
     "metadata": {
       "chunk_id": "hdfc-retirement-savings-fund-equity-plan-direct-growth-header-0",
       "scheme_name": "HDFC Retirement Savings Fund - Equity Plan",
@@ -2005,16 +2005,16 @@
       "doc_type": "groww_page",
       "section": "header",
       "source_url": "https://groww.in/mutual-funds/hdfc-retirement-savings-fund-equity-plan-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 54,
       "data_points": "fund_name,category,risk_level,returns",
-      "content_hash": "df26388fd58bc38404a6d3cb91c6a1c61ad166ab698fab9aaac26fcaee5516a0"
+      "content_hash": "2cbf11b133f229eb3bfc8bf70420a19f0df1ce5a87e71fc2c0a21253a1a80e0f"
     }
   },
   {
-    "text": "HDFC Retirement Savings Fund - Equity Plan — Fund Details\nNAV: 13 Apr '26: ₹54.44\nMin. for SIP: ₹100\nFund size (AUM): ₹6,236.24 Cr\nExpense ratio: 0.80%\nRating: 4",
+    "text": "HDFC Retirement Savings Fund - Equity Plan — Fund Details\nNAV: 15 Apr '26: ₹55.40\nMin. for SIP: ₹100\nFund size (AUM): ₹6,236.24 Cr\nExpense ratio: 0.80%\nRating: 4",
     "metadata": {
       "chunk_id": "hdfc-retirement-savings-fund-equity-plan-direct-growth-fund_details-0",
       "scheme_name": "HDFC Retirement Savings Fund - Equity Plan",
@@ -2024,12 +2024,12 @@
       "doc_type": "groww_page",
       "section": "fund_details",
       "source_url": "https://groww.in/mutual-funds/hdfc-retirement-savings-fund-equity-plan-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 60,
       "data_points": "nav,min_sip,fund_size,expense_ratio,rating",
-      "content_hash": "c7b74af1bd27fcf9f6955fdea70bba01649e60ea33a9293fdf488614d705fb0d"
+      "content_hash": "cd146dd1213ba9505e3999a634da21c770df82c218c2b524903b048c68db1916"
     }
   },
   {
@@ -2043,7 +2043,7 @@
       "doc_type": "groww_page",
       "section": "holdings",
       "source_url": "https://groww.in/mutual-funds/hdfc-retirement-savings-fund-equity-plan-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 171,
@@ -2052,7 +2052,7 @@
     }
   },
   {
-    "text": "HDFC Retirement Savings Fund - Equity Plan — Returns and Rankings\nName | 3Y | 5Y | 10Y | All\nFund returns | +15.3% | +17.9% | +17.1% | +18.2%\nCategory average (Equity Flexi Cap) | +16.0% | +15.6% | +13.5% | --\nRank (Equity Flexi Cap) | 38 | 8 | 4 | --",
+    "text": "HDFC Retirement Savings Fund - Equity Plan — Returns and Rankings\nName | 3Y | 5Y | 10Y | All\nFund returns | +16.0% | +18.3% | +17.3% | +18.4%\nCategory average (Equity Flexi Cap) | +16.0% | +15.6% | +13.5% | --\nRank (Equity Flexi Cap) | 41 | 9 | 3 | --",
     "metadata": {
       "chunk_id": "hdfc-retirement-savings-fund-equity-plan-direct-growth-returns_rankings-0",
       "scheme_name": "HDFC Retirement Savings Fund - Equity Plan",
@@ -2062,12 +2062,12 @@
       "doc_type": "groww_page",
       "section": "returns_rankings",
       "source_url": "https://groww.in/mutual-funds/hdfc-retirement-savings-fund-equity-plan-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 104,
       "data_points": "fund_returns,category_average,rank",
-      "content_hash": "713f2b4e7310275f65243ac44dcdc92c958f3af01e2c1b192bed3e8494d4bdd4"
+      "content_hash": "b73c046a3890438c99e5669cbfea19fcacf2d2701e094800f4655fd4e7660551"
     }
   },
   {
@@ -2081,7 +2081,7 @@
       "doc_type": "groww_page",
       "section": "exit_load_tax",
       "source_url": "https://groww.in/mutual-funds/hdfc-retirement-savings-fund-equity-plan-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 103,
@@ -2100,7 +2100,7 @@
       "doc_type": "groww_page",
       "section": "fund_manager",
       "source_url": "https://groww.in/mutual-funds/hdfc-retirement-savings-fund-equity-plan-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 5,
       "token_count": 498,
@@ -2119,7 +2119,7 @@
       "doc_type": "groww_page",
       "section": "fund_manager",
       "source_url": "https://groww.in/mutual-funds/hdfc-retirement-savings-fund-equity-plan-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 1,
       "total_chunks": 5,
       "token_count": 492,
@@ -2138,7 +2138,7 @@
       "doc_type": "groww_page",
       "section": "fund_manager",
       "source_url": "https://groww.in/mutual-funds/hdfc-retirement-savings-fund-equity-plan-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 2,
       "total_chunks": 5,
       "token_count": 257,
@@ -2157,7 +2157,7 @@
       "doc_type": "groww_page",
       "section": "fund_manager",
       "source_url": "https://groww.in/mutual-funds/hdfc-retirement-savings-fund-equity-plan-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 3,
       "total_chunks": 5,
       "token_count": 508,
@@ -2176,7 +2176,7 @@
       "doc_type": "groww_page",
       "section": "fund_manager",
       "source_url": "https://groww.in/mutual-funds/hdfc-retirement-savings-fund-equity-plan-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 4,
       "total_chunks": 5,
       "token_count": 454,
@@ -2185,7 +2185,7 @@
     }
   },
   {
-    "text": "HDFC Retirement Savings Fund - Equity Plan — Return Calculator (SIP)\n1 year: Invested ₹60,000 → Became ₹57,646 (-3.92%)\n3 years: Invested ₹1,80,000 → Became ₹1,93,876 (+7.71%)\n5 years: Invested ₹3,00,000 → Became ₹4,01,434 (+33.81%)\n10 years: Invested ₹6,00,000 → Became ₹13,95,394 (+132.57%)",
+    "text": "HDFC Retirement Savings Fund - Equity Plan — Return Calculator (SIP)\n1 year: Invested ₹60,000 → Became ₹58,612 (-2.31%)\n3 years: Invested ₹1,80,000 → Became ₹1,97,154 (+9.53%)\n5 years: Invested ₹3,00,000 → Became ₹4,08,151 (+36.05%)\n10 years: Invested ₹6,00,000 → Became ₹14,18,618 (+136.44%)",
     "metadata": {
       "chunk_id": "hdfc-retirement-savings-fund-equity-plan-direct-growth-return_calculator-0",
       "scheme_name": "HDFC Retirement Savings Fund - Equity Plan",
@@ -2195,16 +2195,16 @@
       "doc_type": "groww_page",
       "section": "return_calculator",
       "source_url": "https://groww.in/mutual-funds/hdfc-retirement-savings-fund-equity-plan-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 111,
       "data_points": "sip_returns_1y,sip_returns_3y,sip_returns_5y,sip_returns_10y",
-      "content_hash": "52a207e8bf3a8bf6d41b69f06050d86d8331307a03d9e94873910113929461b1"
+      "content_hash": "2de1b09e1836b34f1c4538d816f4ff91421b38e9e725f9c6344815a1286361da"
     }
   },
   {
-    "text": "HDFC Retirement Savings Fund - Equity Plan — Compare Similar Funds\nITI Flexi Cap Fund Direct Growth | 1Y: +13.09% | 3Y: +21.42% | Size: 1,133.99 Cr\nHDFC Flexi Cap Direct Plan Growth | 1Y: +8.46% | 3Y: +20.32% | Size: 91,334.91 Cr\nInvesco India Flexi Cap Fund Direct Growth | 1Y: +7.34% | 3Y: +20.22% | Size: 4,202.43 Cr\nParag Parikh Flexi Cap Fund Direct Growth | 1Y: +6.78% | 3Y: +18.42% | Size: 1,28,966.48 Cr\nFranklin India Flexi Cap Fund Direct Growth | 1Y: +5.13% | 3Y: +17.20% | Size: 17,535.63 Cr",
+    "text": "HDFC Retirement Savings Fund - Equity Plan — Compare Similar Funds\nITI Flexi Cap Fund Direct Growth | 1Y: +12.00% | 3Y: +22.08% | Size: 1,133.99 Cr\nInvesco India Flexi Cap Fund Direct Growth | 1Y: +6.43% | 3Y: +21.04% | Size: 4,202.43 Cr\nHDFC Flexi Cap Direct Plan Growth | 1Y: +7.90% | 3Y: +20.91% | Size: 91,334.91 Cr\nParag Parikh Flexi Cap Fund Direct Growth | 1Y: +6.78% | 3Y: +18.42% | Size: 1,28,966.48 Cr\nFranklin India Flexi Cap Fund Direct Growth | 1Y: +4.39% | 3Y: +17.86% | Size: 17,535.63 Cr",
     "metadata": {
       "chunk_id": "hdfc-retirement-savings-fund-equity-plan-direct-growth-compare_similar-0",
       "scheme_name": "HDFC Retirement Savings Fund - Equity Plan",
@@ -2214,16 +2214,16 @@
       "doc_type": "groww_page",
       "section": "compare_similar",
       "source_url": "https://groww.in/mutual-funds/hdfc-retirement-savings-fund-equity-plan-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 216,
       "data_points": "peer_comparison",
-      "content_hash": "94e7fb2a4224c64efeffe36676a3d1aea7d545be3289847c742687dffe8578cf"
+      "content_hash": "662df21ff7dff08b06b75bd2e22bb8bbd9f333f02373e7e8bdd492a66113cfc0"
     }
   },
   {
-    "text": "HDFC Small Cap Fund — Fund Details\nNAV: 13 Apr '26: ₹146.34\nMin. for SIP: ₹100\nFund size (AUM): ₹33,724.28 Cr\nExpense ratio: 0.80%\nRating: 4",
+    "text": "HDFC Small Cap Fund — Fund Details\nNAV: 15 Apr '26: ₹149.33\nMin. for SIP: ₹100\nFund size (AUM): ₹33,724.28 Cr\nExpense ratio: 0.80%\nRating: 4",
     "metadata": {
       "chunk_id": "hdfc-small-cap-fund-direct-growth-fund_details-0",
       "scheme_name": "HDFC Small Cap Fund",
@@ -2233,12 +2233,12 @@
       "doc_type": "groww_page",
       "section": "fund_details",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 57,
       "data_points": "nav,min_sip,fund_size,expense_ratio,rating",
-      "content_hash": "cda0708b1a815859b18cf51bbec21d13252e3eb95fe280f556af2a027aeb05ee"
+      "content_hash": "b05996c219df27ae76aec7416907dc780d6faa468b66c817a7939ed49bf64cd8"
     }
   },
   {
@@ -2252,7 +2252,7 @@
       "doc_type": "groww_page",
       "section": "holdings",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 166,
@@ -2261,7 +2261,7 @@
     }
   },
   {
-    "text": "HDFC Small Cap Fund — Returns and Rankings\nName | 3Y | 5Y | 10Y | All\nFund returns | +17.3% | +20.2% | +18.4% | +18.2%\nCategory average (Equity Small Cap) | +19.7% | +22.6% | +16.1% | --\nRank (Equity Small Cap) | 24 | 11 | 4 | --",
+    "text": "HDFC Small Cap Fund — Returns and Rankings\nName | 3Y | 5Y | 10Y | All\nFund returns | +18.1% | +20.7% | +18.6% | +18.3%\nCategory average (Equity Small Cap) | +19.7% | +22.6% | +16.1% | --\nRank (Equity Small Cap) | 24 | 11 | 4 | --",
     "metadata": {
       "chunk_id": "hdfc-small-cap-fund-direct-growth-returns_rankings-0",
       "scheme_name": "HDFC Small Cap Fund",
@@ -2271,12 +2271,12 @@
       "doc_type": "groww_page",
       "section": "returns_rankings",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 99,
       "data_points": "fund_returns,category_average,rank",
-      "content_hash": "ed0964a6bfe6695939b81dc36e45c0fcbb88eea15a59e4e6d3d792fc458f0a7f"
+      "content_hash": "e1a80148b1eba66411e9099f585e3763a963daec7f842a7af170291216eec2c2"
     }
   },
   {
@@ -2290,7 +2290,7 @@
       "doc_type": "groww_page",
       "section": "exit_load_tax",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 111,
@@ -2309,7 +2309,7 @@
       "doc_type": "groww_page",
       "section": "fund_manager",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 2,
       "token_count": 206,
@@ -2328,7 +2328,7 @@
       "doc_type": "groww_page",
       "section": "fund_manager",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 1,
       "total_chunks": 2,
       "token_count": 489,
@@ -2347,7 +2347,7 @@
       "doc_type": "groww_page",
       "section": "return_calculator",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 108,
@@ -2356,7 +2356,7 @@
     }
   },
   {
-    "text": "HDFC Small Cap Fund — Compare Similar Funds\nBandhan Small Cap Fund Direct Growth | 1Y: +13.12% | 3Y: +30.63% | Size: 20,129.67 Cr\nInvesco India Smallcap Fund Direct Growth | 1Y: +12.55% | 3Y: +24.62% | Size: 9,207.58 Cr\nNippon India Small Cap Fund Direct Growth | 1Y: +9.29% | 3Y: +20.64% | Size: 61,808.85 Cr\nQuant Small Cap Fund Direct Plan Growth | 1Y: +7.81% | 3Y: +20.10% | Size: 25,820.99 Cr\nAxis Small Cap Fund Direct Growth | 1Y: +7.98% | 3Y: +17.74% | Size: 23,918.65 Cr",
+    "text": "HDFC Small Cap Fund — Compare Similar Funds\nBandhan Small Cap Fund Direct Growth | 1Y: +12.49% | 3Y: +31.51% | Size: 20,129.67 Cr\nInvesco India Smallcap Fund Direct Growth | 1Y: +11.27% | 3Y: +25.48% | Size: 9,207.58 Cr\nNippon India Small Cap Fund Direct Growth | 1Y: +8.72% | 3Y: +21.45% | Size: 61,808.85 Cr\nQuant Small Cap Fund Direct Plan Growth | 1Y: +6.94% | 3Y: +20.75% | Size: 25,820.99 Cr\nAxis Small Cap Fund Direct Growth | 1Y: +6.90% | 3Y: +18.39% | Size: 23,918.65 Cr",
     "metadata": {
       "chunk_id": "hdfc-small-cap-fund-direct-growth-compare_similar-0",
       "scheme_name": "HDFC Small Cap Fund",
@@ -2366,12 +2366,12 @@
       "doc_type": "groww_page",
       "section": "compare_similar",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scrape_date": "2026-04-15",
+      "scrape_date": "2026-04-16",
       "chunk_index": 0,
       "total_chunks": 1,
       "token_count": 203,
       "data_points": "peer_comparison",
-      "content_hash": "3b1c161b91dee860df2aba818dfc261db2e5a6855dd2357d5c4ef36bac201bd1"
+      "content_hash": "a5d1b2ea8c97f023cccbafc79753142d96a582ece4e4a279c660c0f395b6e503"
     }
   }
 ]
