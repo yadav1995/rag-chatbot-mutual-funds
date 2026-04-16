@@ -24,6 +24,7 @@ rank-bm25>=0.2.2
 
 # --- LLM ---
 openai>=1.0.0
+python-dotenv>=1.0.0
 
 # --- Web Framework ---
 streamlit>=1.28.0

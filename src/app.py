@@ -28,10 +28,14 @@ from src.chat.thread_manager import ThreadManager
 # =============================================================================
 
 st.set_page_config(
-    page_title="MF FAQ Assistant",
+    page_title="HDFC Mutual Fund RAG Assistant",
     page_icon="📊",
     layout="wide",
     initial_sidebar_state="expanded",
+    menu_items={
+        'Get Help': 'https://github.com/yadav1995/rag-chatbot-mutual-funds',
+        'About': "# Mutual Fund RAG Assistant\nA facts-only AI assistant for HDFC Mutual Fund schemes."
+    }
 )
 
 # =============================================================================

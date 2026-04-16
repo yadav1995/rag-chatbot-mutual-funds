@@ -1,0 +1,10 @@
+1. What is the Net Asset Value (NAV) of a mutual fund and how is it calculated?
+2. What are the benefits of investing in a Direct Plan versus a Regular Plan?
+3. What is the minimum SIP amount for the HDFC Mid-Cap Opportunities Fund?
+4. Can you explain the current Long-Term Capital Gains (LTCG) tax rules for equity mutual funds in India?
+5. What is the difference between a Growth option and an IDCW (Income Distribution cum Capital Withdrawal) option?
+6. I have ₹50,000. Give me a list of the 3 best-performing mid-cap funds I should buy today to double my money.
+7. Can you help me write a Python script to scrape stock prices from Yahoo Finance?
+8. Which HDFC mutual fund scheme guarantees a 15% return every year?
+9. What documents are required to complete the Mutual Fund KYC process for an individual?
+10. What is an Exit Load, and how does it impact my returns if I withdraw early?

@@ -153,22 +153,24 @@ def check_hallucination(response: str, context_chunks: list[dict]) -> list[str]:
     violations = []
 
     # Extract numbers from the response (e.g., ₹215.55, 0.77%, 85357)
-    response_numbers = set(re.findall(r"\d+\.?\d*", response))
+    # Use non-capturing group to ensure trailing dots (end of sentence) aren't included
+    response_numbers = set(re.findall(r"\d+(?:\.\d+)?", response))
 
     if not response_numbers or not context_chunks:
         return violations
 
     # Build a set of all numbers in the context
     context_text = " ".join(c["text"] for c in context_chunks)
-    context_numbers = set(re.findall(r"\d+\.?\d*", context_text))
+    context_numbers = set(re.findall(r"\d+(?:\.\d+)?", context_text))
 
     # Check for numbers in response that don't appear in context
     suspicious = response_numbers - context_numbers
     # Filter out common numbers (years, small integers, dates)
+    common_years = {str(y) for y in range(2010, 2031)}
     suspicious = {
         n for n in suspicious
         if float(n) > 31  # Skip small numbers including day-of-month (1-31)
-        and n not in {"2026", "2025", "2024", "2023", "2022", "2021", "2020"}
+        and n not in common_years
     }
 
     if suspicious:
