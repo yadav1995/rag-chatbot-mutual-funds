@@ -53,12 +53,20 @@ class HybridSearcher:
         if self._chroma_collection is None:
             import chromadb
             client = chromadb.PersistentClient(path=str(VECTORSTORE_DIR))
-            self._chroma_collection = client.get_collection(
-                name=CHROMA_COLLECTION_NAME,
-            )
-            logger.info(
-                f"ChromaDB loaded: {self._chroma_collection.count()} vectors"
-            )
+            try:
+                self._chroma_collection = client.get_collection(
+                    name=CHROMA_COLLECTION_NAME,
+                )
+                logger.info(
+                    f"ChromaDB loaded: {self._chroma_collection.count()} vectors"
+                )
+            except Exception as e:
+                logger.error(f"Failed to load ChromaDB collection '{CHROMA_COLLECTION_NAME}' from {VECTORSTORE_DIR}: {e}")
+                # Provide a more helpful error for deployment environments
+                raise RuntimeError(
+                    f"ChromaDB collection '{CHROMA_COLLECTION_NAME}' not found in {VECTORSTORE_DIR}. "
+                    "Ensure the data/vectorstore directory is present in the repository."
+                ) from e
         return self._chroma_collection
 
     def _get_embedding_service(self):

@@ -7,10 +7,13 @@ __pycache__/
 *.egg-info/
 
 # Data (large files)
+# Data (tracked for deployment)
+# data/vectorstore/
+# data/chunks.db
+# data/threads.db
+
+# Data (still ignored)
 data/raw/
-data/vectorstore/
-data/chunks.db
-data/threads.db
 
 # IDE
 .vscode/
